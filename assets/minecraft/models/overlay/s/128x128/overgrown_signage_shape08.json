@@ -1,0 +1,6 @@
+{
+	"parent": "overlay/s/128x128/template",
+	"textures": {
+		"0": "block/overlay/overgrown_signage_shape08"
+	}
+}

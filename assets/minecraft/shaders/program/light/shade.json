@@ -1,0 +1,25 @@
+{
+    "blend": {
+        "func": "add",
+        "srcrgb": "one",
+        "dstrgb": "zero"
+    },
+    "vertex": "light/shade",
+    "fragment": "light/shade",
+    "attributes": [],
+    "samplers": [
+        { "name": "DiffuseSampler" },
+        { "name": "DepthSampler" },
+        { "name": "DataSampler" },
+        { "name": "ItemDepthSampler" },
+        { "name": "TranslucentSampler" },
+        { "name": "EmissiveSampler" },
+        { "name": "ShadowDataSampler" },
+        { "name": "ShadowDepthSampler" },
+        { "name": "TransmittanceSampler" },
+        { "name": "NormalSampler" }
+    ],
+    "uniforms": [
+        { "name": "InSize",  "type": "float", "count": 2, "values": [ 1.0, 1.0 ] }
+    ]
+}

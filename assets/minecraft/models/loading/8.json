@@ -1,0 +1,6 @@
+{
+	"parent": "loading/1",
+	"textures": {
+		"0": "block/loading/8"
+	}
+}

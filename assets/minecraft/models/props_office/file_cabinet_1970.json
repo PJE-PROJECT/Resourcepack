@@ -1,0 +1,28 @@
+{
+	"textures": {
+		"0": "block/portal/office/file_cabinet_1970",
+		"particle": "block/portal/office/file_cabinet_1970"
+	},
+	"elements": [
+		{
+			"from": [3.23, -4.505, 3.76],
+			"to": [12.77, 4.505, 12.24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.23, -4.505, 3.76]},
+			"faces": {
+				"north": {"uv": [6.8125, 0.3125, 1.375, 5.25], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [9.125, 11.125, 12.0625, 15.625], "texture": "#0"},
+				"south": {"uv": [2.0625, 11.0625, 7.6875, 16], "texture": "#0"},
+				"west": {"uv": [1.125, 5.6875, 8, 10.9375], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [7.9375, 5.625, 13.5625, 10.9375], "texture": "#0"},
+				"down": {"uv": [1.375, 0.3125, 6.8125, 5.25], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -24.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}

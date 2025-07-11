@@ -1,0 +1,14 @@
+{
+    "blend": {
+        "func": "add",
+        "srcrgb": "one",
+        "dstrgb": "zero"
+    },
+    "vertex": "util/screenquad",
+    "fragment": "post/vibrancy",
+    "attributes": [],
+    "samplers": [
+        { "name": "DiffuseSampler" }
+    ],
+    "uniforms": []
+}

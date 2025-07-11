@@ -1,0 +1,33 @@
+{
+	"textures": {
+		"0": "block/mol4",
+		"particle": "block/mol4"
+	},
+	"elements": [
+		{
+			"from": [4.601, 7.399, 8],
+			"to": [31.541, 28.955, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [19.571, 19.677, 8]},
+			"faces": {
+				"south": {"uv": [8, 0, 16, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, 0, -8.25],
+			"translation": [4.5, 1, -8.5],
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, -9.5],
+			"translation": [31.25, 48, 0],
+			"scale": [3.5, 3.5, 3.5]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [5.75, 8.25, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

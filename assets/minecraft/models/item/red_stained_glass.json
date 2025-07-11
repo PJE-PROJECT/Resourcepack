@@ -1,0 +1,77 @@
+{
+  "parent": "minecraft:block/red_stained_glass",
+  "overrides": [
+      {
+        "predicate": {
+            "custom_model_data": 1
+        },
+        "model": "item/p1"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 2
+        },
+        "model": "item/p2"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 3
+        },
+        "model": "item/portal/portal_inner1"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 4
+        },
+        "model": "item/portal/portal_inner2"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 5
+        },
+        "model": "item/goorefl"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 6
+        },
+        "model": "item/nof5"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 7
+        },
+        "model": "light/save"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 8
+        },
+        "model": "light/display"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 9
+        },
+        "model": "light/load"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 10
+        },
+        "model": "light/sun"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 11
+        },
+        "model": "effect/motion_blur"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 12
+        },
+        "model": "light/volumetric"
+      }
+  ]
+}

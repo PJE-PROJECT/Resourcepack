@@ -1,0 +1,42 @@
+{
+	"textures": {
+		"0": "block/portal/gel/orange_gel_mid",
+		"particle": "block/portal/gel/orange_gel_mid"
+	},
+	"elements": [
+		{
+			"from": [0, -0.1, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 0.001, 0.001], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.001, 0.001], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.001, 0.001], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.001, 0.001], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, 13.25, 91.25],
+			"translation": [-2.25, 2.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 13.25, 91.25],
+			"translation": [-2.25, 2.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 6.25, 0]
+		},
+		"gui": {
+			"rotation": [90, 0, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16.2],
+			"scale": [2, 2, 2]
+		}
+	}
+}

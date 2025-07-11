@@ -1,0 +1,22 @@
+{
+	"textures": {
+		"0": "item/portal_items/portal_dropper/dropper_rusted",
+		"particle": "item/portal_items/portal_dropper/dropper_rusted"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [180, 0, 180],
+			"translation": [0, -17, 1.5],
+			"scale": [2.85, 3, 2.85]
+		}
+	}
+}

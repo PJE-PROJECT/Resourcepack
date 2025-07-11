@@ -1,0 +1,60 @@
+{
+  "variants": {
+    "facing=east": [
+	{
+      "model": "minecraft:block/stena/1x2/white/1",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/1x2/white/2",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/1x2/white/3",
+      "y": 180
+    }
+	],
+    "facing=south": [
+	{
+      "model": "minecraft:block/stena/1x2/white/1",
+      "y": 270
+    },
+	{
+      "model": "minecraft:block/stena/1x2/white/2",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/1x2/white/3",
+      "y": 270
+    }
+	],
+    "facing=north": [
+	{
+      "model": "minecraft:block/stena/1x2/white/1",
+      "y": 90
+    },
+	{
+      "model": "minecraft:block/stena/1x2/white/2",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/1x2/white/3",
+      "y": 90
+    }
+	],
+    "facing=west": [
+	{
+      "model": "minecraft:block/stena/1x2/white/1",
+	   "y": 0
+    },
+	{
+      "model": "minecraft:block/stena/1x2/white/2",
+	   "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/1x2/white/3",
+      "y": 0
+    }
+	]
+  }
+}

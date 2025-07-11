@@ -1,0 +1,188 @@
+{
+  "variants": {
+    "facing=east": [
+	{
+      "model": "minecraft:block/stena_broken/1",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena_broken/2",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena_broken/5",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena_broken/6",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena_broken/8",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena_broken/9",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena_broken/10",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena_broken/11",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena_broken/12",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena_broken/13",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena_broken/14",
+      "y": 180
+    }
+	],
+    "facing=south": [
+	{
+      "model": "minecraft:block/stena_broken/90/1",
+      "y": 180
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/2",
+      "y": 180
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/5",
+      "y": 180
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/6",
+      "y": 180
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/8",
+      "y": 180
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/9",
+      "y": 180
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/10",
+      "y": 180
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/11",
+      "y": 180
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/12",
+      "y": 180
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/13",
+      "y": 180
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/14",
+      "y": 180
+    }
+	],
+    "facing=north": [
+	{
+      "model": "minecraft:block/stena_broken/90/1",
+      "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/2",
+      "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/5",
+      "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/6",
+      "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/8",
+      "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/9",
+      "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/10",
+      "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/11",
+      "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/12",
+      "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/13",
+      "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/90/14",
+      "y": 0
+    }
+	],
+    "facing=west": [
+	{
+      "model": "minecraft:block/stena_broken/1",
+	   "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/2",
+	   "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/5",
+	   "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/6",
+	   "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/8",
+	   "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/9",
+	   "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/10",
+	   "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/11",
+	   "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/12",
+	   "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/13",
+	   "y": 0
+    },
+	{
+      "model": "minecraft:block/stena_broken/14",
+	   "y": 0
+    }
+	]
+  }
+}

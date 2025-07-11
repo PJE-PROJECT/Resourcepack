@@ -1,0 +1,80 @@
+{
+	"texture_size": [16, 24],
+	"textures": {
+		"0": "block/funnel_emitter_wall/metal_rusted",
+		"1": "block/portal/black",
+		"particle": "block/funnel_emitter_wall/metal_rusted"
+	},
+	"elements": [
+		{
+			"from": [-8, 30, -13.3],
+			"to": [24, 30, 29.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 30, -13.3]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-7.85843, 10, -7.7012],
+			"to": [23.84157, 30, -7.7012],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.14157, 29, -7.7012]},
+			"faces": {
+				"south": {"uv": [0, 0, 16, 13.33333], "texture": "#1"}
+			}
+		},
+		{
+			"from": [23.84157, 10, -7.7002],
+			"to": [23.84157, 30, 23.6998],
+			"rotation": {"angle": 0, "axis": "y", "origin": [23.84157, 29, 8.1498]},
+			"faces": {
+				"west": {"uv": [0, 0, 16, 13.33333], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-7.84157, 10, -7.7002],
+			"to": [-7.84157, 30, 23.6998],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-7.84157, 29, 8.1498]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 13.33333], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-7.84157, 10, -7.7002],
+			"to": [23.85843, 10, 23.6998],
+			"rotation": {"angle": 0, "axis": "z", "origin": [13.85843, 10, 7.9998]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"from": [-7.85843, 10, 23.7012],
+			"to": [23.84157, 30, 23.7012],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.14157, 29, 23.7012]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 13.33333], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [86, 0, 73],
+			"translation": [0, 4.75, -2.25],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [86, 0, 73],
+			"translation": [0, 4.75, -2.25],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0.25, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"fixed": {
+			"rotation": [-90, 180, 0],
+			"translation": [0, -15.75, 66],
+			"scale": [3, 3, 3]
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"textures": {
+		"0": "block/door_wall/metal_overgrown",
+		"particle": "block/door_wall/metal_overgrown"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [32, 0, 32],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, 0, 85],
+			"translation": [0, 2.75, -3],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 85],
+			"translation": [0, 2.75, -3],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [-4, 4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"rotation": [90, 0, -180],
+			"translation": [0, 0, -15.95],
+			"scale": [2, 2, 2]
+		}
+	}
+}

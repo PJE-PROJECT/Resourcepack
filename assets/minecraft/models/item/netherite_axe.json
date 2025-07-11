@@ -1,0 +1,47 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/netherite_axe"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "elevator/elevator_clean"},
+		{ "predicate": { "custom_model_data": 7 }, "model": "elevator/top"},
+		{ "predicate": { "custom_model_data": 8 }, "model": "elevator/tube1"},
+		{ "predicate": { "custom_model_data": 9 }, "model": "elevator/elevator_collar_glass"},
+		{ "predicate": { "custom_model_data": 10 }, "model": "elevator/elevator_hole"},
+		{ "predicate": { "custom_model_data": 11 }, "model": "elevator/monitors/off_1"},
+		{ "predicate": { "custom_model_data": 12 }, "model": "elevator/monitors/off_2"},
+		{ "predicate": { "custom_model_data": 13 }, "model": "elevator/monitors/off_3"},
+		{ "predicate": { "custom_model_data": 14 }, "model": "elevator/monitors/off_4"},
+		{ "predicate": { "custom_model_data": 15 }, "model": "elevator/monitors/off_5"},
+		{ "predicate": { "custom_model_data": 16 }, "model": "elevator/monitors/off_6"},
+		{ "predicate": { "custom_model_data": 17 }, "model": "elevator/blade"},
+		{ "predicate": { "custom_model_data": 18 }, "model": "catwalk/elevator/start"},
+		{ "predicate": { "custom_model_data": 19 }, "model": "catwalk/elevator/mid"},
+		{ "predicate": { "custom_model_data": 20 }, "model": "catwalk/elevator/end"},
+
+		{ "predicate": { "custom_model_data": 22 }, "model": "elevator/elevator_clean"},
+		{ "predicate": { "custom_model_data": 23 }, "model": "elevator/elevator_clean_door_r"},
+		{ "predicate": { "custom_model_data": 24 }, "model": "elevator/elevator_clean_door_l"},
+		
+		{ "predicate": { "custom_model_data": 25 }, "model": "elevator/elevator_dirty_full"},
+
+		{ "predicate": { "custom_model_data": 26 }, "model": "elevator/elevator_dirty"},
+		{ "predicate": { "custom_model_data": 27 }, "model": "elevator/elevator_dirty_door_r"},
+		{ "predicate": { "custom_model_data": 28 }, "model": "elevator/elevator_dirty_door_l"},
+
+		{ "predicate": { "custom_model_data": 29 }, "model": "elevator/vactube"},
+		{ "predicate": { "custom_model_data": 30 }, "model": "elevator/monitors/plintus"},
+		{ "predicate": { "custom_model_data": 31 }, "model": "elevator/top_rusted"},
+		{ "predicate": { "custom_model_data": 32 }, "model": "elevator/miniature/arrival_clean"},
+		{ "predicate": { "custom_model_data": 33 }, "model": "elevator/miniature/arrival_rusted_1"},
+		{ "predicate": { "custom_model_data": 34 }, "model": "elevator/miniature/arrival_rusted_2"},
+		{ "predicate": { "custom_model_data": 35 }, "model": "elevator/miniature/departure_clean"},
+		{ "predicate": { "custom_model_data": 36 }, "model": "elevator/miniature/departure_rusted_1"},
+		{ "predicate": { "custom_model_data": 37 }, "model": "elevator/miniature/departure_rusted_2"},
+
+		{ "predicate": { "custom_model_data": 38 }, "model": "elevator/tube_free"}
+
+
+	]
+}

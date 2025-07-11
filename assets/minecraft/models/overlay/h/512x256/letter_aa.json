@@ -1,0 +1,6 @@
+{
+	"parent": "overlay/h/512x256/template",
+	"textures": {
+		"0": "block/overlay/letter_aa"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "overlay/s/256x256/template",
+	"textures": {
+		"0": "block/overlay/ratman_diorama06"
+	}
+}

@@ -1,0 +1,268 @@
+{
+  "variants": {
+    "facing=east": [
+	{
+      "model": "minecraft:block/stena/black_1x1/1",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/2",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/3",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/4",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/5",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/6",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/7",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/8",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/9",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/10",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/11",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/12",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/13",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/14",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/15",
+      "y": 180
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/16",
+      "y": 180
+    }
+	],
+    "facing=south": [
+	{
+      "model": "minecraft:block/stena/black_1x1/1",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/2",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/3",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/4",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/5",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/6",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/7",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/8",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/9",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/10",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/11",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/12",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/13",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/14",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/15",
+      "y": 270
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/16",
+      "y": 270
+    }
+	],
+    "facing=north": [
+	{
+      "model": "minecraft:block/stena/black_1x1/1",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/2",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/3",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/4",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/5",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/6",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/7",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/8",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/9",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/10",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/11",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/12",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/13",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/14",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/15",
+      "y": 90
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/16",
+      "y": 90
+    }
+	],
+    "facing=west": [
+	{
+      "model": "minecraft:block/stena/black_1x1/1",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/2",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/3",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/4",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/5",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/6",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/7",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/8",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/9",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/10",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/11",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/12",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/13",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/14",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/15",
+      "y": 0
+    },
+	{
+     "model": "minecraft:block/stena/black_1x1/16",
+      "y": 0
+    }
+	]
+  }
+}

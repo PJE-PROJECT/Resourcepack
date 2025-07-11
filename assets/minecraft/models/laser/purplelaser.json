@@ -1,0 +1,51 @@
+{
+	"textures": {
+		"0": "block/purplelaser1",
+		"particle": "block/purplelaser1"
+	},
+	"elements": [
+		{
+			"from": [8.05, 4, 0],
+			"to": [10.85, 4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.5, 8]},
+			"faces": {
+				"up": {"uv": [7.9375, 0, 4.375, 16], "texture": "#0"},
+				"down": {"uv": [7.9375, 0, 4.375, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.25, 4, 0],
+			"to": [8.05, 4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.5, 8]},
+			"faces": {
+				"up": {"uv": [4.375, 0, 7.9375, 16], "texture": "#0"},
+				"down": {"uv": [4.375, 0, 7.9375, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.05, 1.2, 0],
+			"to": [8.05, 4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.5, 8]},
+			"faces": {
+				"east": {"uv": [7.9375, 0, 4.375, 16], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [7.9375, 0, 4.375, 16], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.05, 4, 0],
+			"to": [8.05, 6.8, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.5, 8]},
+			"faces": {
+				"east": {"uv": [4.375, 0, 7.9375, 16], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [4.375, 0, 7.9375, 16], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [1.25, -26.5, 0],
+			"scale": [4, 1.1, 1.1]
+		}
+	}
+}

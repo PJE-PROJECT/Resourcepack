@@ -1,0 +1,6 @@
+{
+	"parent": "overlay/h/256x64/template",
+	"textures": {
+		"0": "block/overlay/bts_sign_factory_01"
+	}
+}

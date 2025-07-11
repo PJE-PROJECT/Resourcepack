@@ -1,0 +1,28 @@
+{
+	"textures": {
+		"0": "item/portal_items/portal_laser_field/laser_field",
+		"particle": "item/portal_items/portal_laser_field/laser_field"
+	},
+	"elements": [
+		{
+			"name": "PlaneZ3",
+			"from": [-8, 0, 8],
+			"to": [8, 32, 8.001],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9, 8.0005]},
+			"faces": {
+				"north": {"uv": [0, 0.625, 16, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [180, 180, 180],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}

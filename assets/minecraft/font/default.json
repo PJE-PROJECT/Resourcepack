@@ -1,0 +1,88 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/font/black_screen.png",
+			"ascent": 100000,
+			"height": 1000000,
+			"chars": ["\uE003"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/font/crosshair_portals_0.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\uE004"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/font/crosshair_portals_1.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\uE005"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/font/crosshair_portals_2.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\uE006"]
+		},
+		{
+			"type": "bitmap",
+			"file": "item/font/crosshair_portals_3.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\uE007"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/font/crosshair.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\uE008"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:block/air.png",
+			"ascent": 1000,
+			"height": 80000,
+			"chars": ["\uE009"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/font/hints/but1.png",
+			"ascent": 11,
+			"height": 12,
+			"chars": ["\uE010"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/font/hints/but2.png",
+			"ascent": 11,
+			"height": 12,
+			"chars": ["\uE011"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/font/hints/drop.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": ["\uE012"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/font/hints/pick1.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": ["\uE013"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/font/hints/pick2.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": ["\uE014"]
+		}
+	]
+}

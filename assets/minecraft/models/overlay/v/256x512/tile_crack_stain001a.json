@@ -1,0 +1,6 @@
+{
+	"parent": "overlay/v/256x512/template",
+	"textures": {
+		"0": "block/overlay/tile_crack_stain001a"
+	}
+}

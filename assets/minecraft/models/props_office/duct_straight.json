@@ -1,0 +1,26 @@
+{
+	"textures": {
+		"0": "block/portal/office/duct_round_office",
+		"particle": "block/portal/office/duct_round_office"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 0],
+			"to": [13, 7, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.5, 8]},
+			"faces": {
+				"east": {"uv": [0, 8.3125, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 7.6875], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 9.0625], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 9.0625], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -15.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}

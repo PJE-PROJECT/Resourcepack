@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/portal/7",
+		"particle": "block/air"
+	},
+	"elements": [
+		{
+			"from": [0, 15, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"up": {"uv": [0, 7.969, 7.906, 15.969], "texture": "#0"}
+			}
+		}
+	]
+}

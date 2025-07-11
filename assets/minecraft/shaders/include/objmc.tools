@@ -1,0 +1,82 @@
+//objmc
+//https://github.com/Godlander/objmc
+#define PI 3.1415926535897932
+
+ivec4 getmeta(ivec2 topleft, int offset) {
+    return ivec4(texelFetch(Sampler0, topleft + ivec2(offset,0), 0) * 255);
+}
+vec3 getpos(ivec2 topleft, int w, int h, int index) {
+    int i = index*3;
+    vec4 x = texelFetch(Sampler0, topleft + ivec2((i  )%w,h+((i  )/w)), 0);
+    vec4 y = texelFetch(Sampler0, topleft + ivec2((i+1)%w,h+((i+1)/w)), 0);
+    vec4 z = texelFetch(Sampler0, topleft + ivec2((i+2)%w,h+((i+2)/w)), 0);
+    return vec3(
+        (x.r*256)+(x.g)+(x.b/256),
+        (y.r*256)+(y.g)+(y.b/256),
+        (z.r*256)+(z.g)+(z.b/256)
+    )*(255./256.) - vec3(128);
+}
+vec2 getuv(ivec2 topleft, int w, int h, int index) {
+    int i = index*2;
+    vec4 x = texelFetch(Sampler0, topleft + ivec2((i  )%w,h+((i  )/w)), 0);
+    vec4 y = texelFetch(Sampler0, topleft + ivec2((i+1)%w,h+((i+1)/w)), 0);
+    return vec2(
+        ((x.g*65280)+(x.b*255))/65535,
+        ((y.g*65280)+(y.b*255))/65535
+    );
+}
+ivec2 getvert(ivec2 topleft, int w, int h, int index) {
+    int i = index*2;
+    ivec4 a = ivec4(texelFetch(Sampler0, topleft + ivec2((i  )%w,h+((i  )/w)), 0)*255);
+    ivec4 b = ivec4(texelFetch(Sampler0, topleft + ivec2((i+1)%w,h+((i+1)/w)), 0)*255);
+    return ivec2(
+        ((a.r*65536)+(a.g*256)+a.b),
+        ((b.r*65536)+(b.g*256)+b.b)
+    );
+}
+
+int getb(int i, int b) {
+    return (i>>b)&1;
+}
+int geta(int i, int b) {
+    return getb(i,b)<<7;
+}
+
+//3d rotation matrix from Barf Creations
+mat3 rotate(vec3 angles) {
+    float sx = sin(angles.x);
+    float cx = cos(angles.x);
+    float sy = sin(-angles.y);
+    float cy = cos(-angles.y);
+    float sz = sin(-angles.z);
+    float cz = cos(-angles.z);
+    return mat3(cy*cz,            cy*sz,           -sy,
+                sx*sy*cz - cx*sz, sx*sy*sz + cx*cz, sx*cy,
+                cx*sy*cz + sx*sz, cx*sy*sz - sx*cz, cx*cy);
+}
+
+//gui item model detection from Onnowhere
+bool isgui(mat4 ProjMat) {
+    return ProjMat[3][2] == -2.0;
+}
+//first person hand item model detection from esben
+bool ishand(float FogStart) {
+    return FogStart*0.000001 > 1;
+}
+
+//hue to rgb
+vec3 hrgb(float h) {
+    vec3 K = vec3(1.0, 2.0 / 3.0, 1.0 / 3.0);
+    vec3 p = abs(fract(K.xyz + h) * 6.0 - 3.0);
+    return clamp(p - K.xxx, 0.0, 1.0);
+}
+
+//4 point bezier formula from Dominexis
+vec3 bezb(vec3 a, vec3 b, vec3 c, vec3 d, float t) {
+    float t2 = t * t;
+    float t3 = t2 * t;
+    return (d-3*c+3*b-a)*t3 + (3*c-6*b+3*a)*t2 + (3*b-3*a)*t + a;
+}
+vec3 bezier(vec3 a, vec3 b, vec3 c, vec3 d, float t) {
+    return bezb(b,b+(c-a)/6,c-(d-b)/6,c,t);
+}

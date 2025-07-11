@@ -1,0 +1,125 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/netherite_shovel"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "item/portalgun/draw"},
+		{ "predicate": { "custom_model_data": 2 }, "model": "item/portalgun/idle_to_carrying"},
+		{ "predicate": { "custom_model_data": 3 }, "model": "item/portalgun/fire"},
+		{ "predicate": { "custom_model_data": 4 }, "model": "item/portalgun/carrying_to_idle"},
+		{ "predicate": { "custom_model_data": 5 }, "model": "item/portalgun/dryfire"},
+		{ "predicate": { "custom_model_data": 6 }, "model": "item/portal_items/cube/cube_s_off"},
+		{ "predicate": { "custom_model_data": 7 }, "model": "item/portal_items/cube/cube_s_on"},
+		{ "predicate": { "custom_model_data": 8 }, "model": "item/portal_items/cube/cube_c_off"},
+		{ "predicate": { "custom_model_data": 9 }, "model": "item/portal_items/cube/cube_c_on"},
+		{ "predicate": { "custom_model_data": 10 }, "model": "item/portal_items/cube/cube_s_rusted_off"},
+		{ "predicate": { "custom_model_data": 11 }, "model": "item/portal_items/cube/cube_s_rusted_on"},
+		{ "predicate": { "custom_model_data": 12 }, "model": "item/dropper"},
+		{ "predicate": { "custom_model_data": 14 }, "model": "item/faith_plate"},
+		{ "predicate": { "custom_model_data": 15 }, "model": "item/v_pgun"},
+		{ "predicate": { "custom_model_data": 16 }, "model": "item/radio"},
+		{ "predicate": { "custom_model_data": 17 }, "model": "prop/toilet"},
+		{ "predicate": { "custom_model_data": 18 }, "model": "item/playerstart"},
+		{ "predicate": { "custom_model_data": 19 }, "model": "item/portal_items/cube/cube_c_rusted_off"},
+		{ "predicate": { "custom_model_data": 20 }, "model": "item/portal_items/cube/cube_c_rusted_on"},
+		{ "predicate": { "custom_model_data": 21 }, "model": "item/radio_fizzled"},
+		{ "predicate": { "custom_model_data": 22 }, "model": "item/vert_door/open"},
+		{ "predicate": { "custom_model_data": 23 }, "model": "item/vert_door/close"},
+		{ "predicate": { "custom_model_data": 24 }, "model": "item/vert_door/idle/opened"},
+		{ "predicate": { "custom_model_data": 25 }, "model": "item/vert_door/idle/closed"},
+		{ "predicate": { "custom_model_data": 26 }, "model": "item/vert_door/partial"},
+		{ "predicate": { "custom_model_data": 27 }, "model": "item/vert_door/idle/partial"},
+		{ "predicate": { "custom_model_data": 28 }, "model": "item/vert_door/dirty/open"},
+		{ "predicate": { "custom_model_data": 29 }, "model": "item/vert_door/dirty/close"},
+		{ "predicate": { "custom_model_data": 30 }, "model": "item/vert_door/dirty/idle/opened"},
+		{ "predicate": { "custom_model_data": 31 }, "model": "item/vert_door/dirty/idle/closed"},
+		{ "predicate": { "custom_model_data": 32 }, "model": "item/vert_door/dirty/partial"},
+		{ "predicate": { "custom_model_data": 33 }, "model": "item/vert_door/dirty/idle/partial"},
+		{ "predicate": { "custom_model_data": 34 }, "model": "gel/blue/blue_paint_bomb"},
+		{ "predicate": { "custom_model_data": 35 }, "model": "gel/orange/orange_paint_bomb"},
+		{ "predicate": { "custom_model_data": 36 }, "model": "gel/water/water_paint_bomb"},
+		{ "predicate": { "custom_model_data": 37 }, "model": "prop/cake"},
+		{ "predicate": { "custom_model_data": 38 }, "model": "prop/table"},
+		{ "predicate": { "custom_model_data": 39 }, "model": "prop/bed"},
+		{ "predicate": { "custom_model_data": 43 }, "model": "arm64x64/animation/metal_overgrown/error_arm_03"},
+
+
+
+		{ "predicate": { "custom_model_data": 46 }, "model": "arm64x64/animation/metal/32_out_straight"},
+		{ "predicate": { "custom_model_data": 47 }, "model": "arm64x64/animation/metal/32_in_straight"},
+		{ "predicate": { "custom_model_data": 48 }, "model": "arm64x64/animation/metal_overgrown/32_out_straight"},
+		{ "predicate": { "custom_model_data": 49 }, "model": "arm64x64/animation/metal_overgrown/32_in_straight"},
+
+
+		{ "predicate": { "custom_model_data": 52 }, "model": "arm64x64/animation/metal/64_out_straight"},
+		{ "predicate": { "custom_model_data": 53 }, "model": "arm64x64/animation/metal/64_in_straight"},
+		{ "predicate": { "custom_model_data": 54 }, "model": "arm64x64/animation/metal_overgrown/64_out_straight"},
+		{ "predicate": { "custom_model_data": 55 }, "model": "arm64x64/animation/metal_overgrown/64_in_straight"},
+
+
+		{ "predicate": { "custom_model_data": 58 }, "model": "arm64x64/animation/metal/128_out_straight"},
+		{ "predicate": { "custom_model_data": 59 }, "model": "arm64x64/animation/metal/128_in_straight"},
+		{ "predicate": { "custom_model_data": 60 }, "model": "arm64x64/animation/metal_overgrown/128_out_straight"},
+		{ "predicate": { "custom_model_data": 61 }, "model": "arm64x64/animation/metal_overgrown/128_in_straight"},
+
+		{ "predicate": { "custom_model_data": 62 }, "model": "arm64x64/animation/metal/90deg_out_cornerfront"},
+		{ "predicate": { "custom_model_data": 63 }, "model": "arm64x64/animation/metal/90deg_in_cornerfront"},
+		{ "predicate": { "custom_model_data": 64 }, "model": "arm64x64/animation/metal_overgrown/90deg_out_cornerfront"},
+		{ "predicate": { "custom_model_data": 65 }, "model": "arm64x64/animation/metal_overgrown/90deg_in_cornerfront"},
+
+		{ "predicate": { "custom_model_data": 66 }, "model": "arm64x64/animation/metal/rampa_stair01_up"},
+		{ "predicate": { "custom_model_data": 67 }, "model": "arm64x64/animation/metal/rampa_stair01_down"},
+		{ "predicate": { "custom_model_data": 68 }, "model": "arm64x64/animation/metal/rampa_stair02_up"},
+		{ "predicate": { "custom_model_data": 69 }, "model": "arm64x64/animation/metal/rampa_stair02_down"},
+		{ "predicate": { "custom_model_data": 70 }, "model": "arm64x64/animation/metal/rampa_stair03_up"},
+		{ "predicate": { "custom_model_data": 71 }, "model": "arm64x64/animation/metal/rampa_stair03_down"},
+		{ "predicate": { "custom_model_data": 72 }, "model": "arm64x64/animation/metal/rampa_stair04_up"},
+		{ "predicate": { "custom_model_data": 73 }, "model": "arm64x64/animation/metal/rampa_stair04_down"},
+
+		{ "predicate": { "custom_model_data": 74 }, "model": "arm64x64/animation/metal_overgrown/rampa_stair01_up"},
+		{ "predicate": { "custom_model_data": 75 }, "model": "arm64x64/animation/metal_overgrown/rampa_stair01_down"},
+		{ "predicate": { "custom_model_data": 76 }, "model": "arm64x64/animation/metal_overgrown/rampa_stair02_up"},
+		{ "predicate": { "custom_model_data": 77 }, "model": "arm64x64/animation/metal_overgrown/rampa_stair02_down"},
+		{ "predicate": { "custom_model_data": 78 }, "model": "arm64x64/animation/metal_overgrown/rampa_stair03_up"},
+		{ "predicate": { "custom_model_data": 79 }, "model": "arm64x64/animation/metal_overgrown/rampa_stair03_down"},
+		{ "predicate": { "custom_model_data": 80 }, "model": "arm64x64/animation/metal_overgrown/rampa_stair04_up"},
+		{ "predicate": { "custom_model_data": 81 }, "model": "arm64x64/animation/metal_overgrown/rampa_stair04_down"},
+
+		{ "predicate": { "custom_model_data": 82 }, "model": "arm64x64/idle/empty/bindpose"},
+		{ "predicate": { "custom_model_data": 83 }, "model": "arm64x64/idle/metal/bindpose"},
+		{ "predicate": { "custom_model_data": 84 }, "model": "arm64x64/idle/metal/bindpose_floor"},
+		{ "predicate": { "custom_model_data": 85 }, "model": "arm64x64/idle/metal_overgrown/bindpose"},
+		{ "predicate": { "custom_model_data": 86 }, "model": "arm64x64/idle/metal_overgrown/bindpose_floor"},
+
+		{ "predicate": { "custom_model_data": 87 }, "model": "arm64x64/animation/metal/90deg_out_cornerfront_top"},
+		{ "predicate": { "custom_model_data": 88 }, "model": "arm64x64/animation/metal/90deg_in_cornerfront_top"},
+		{ "predicate": { "custom_model_data": 89 }, "model": "arm64x64/animation/metal_overgrown/90deg_out_cornerfront_top"},
+		{ "predicate": { "custom_model_data": 90 }, "model": "arm64x64/animation/metal_overgrown/90deg_in_cornerfront_top"},
+
+		{ "predicate": { "custom_model_data": 91 }, "model": "arm64x64/idle/metal/bindpose_top"},
+		{ "predicate": { "custom_model_data": 92 }, "model": "arm64x64/idle/metal_overgrown/bindpose_top"},
+
+
+
+		{ "predicate": { "custom_model_data": 101 }, "model": "excursion_funnel/emitter_idle"},
+		{ "predicate": { "custom_model_data": 102 }, "model": "excursion_funnel/emitter_blue"},
+		{ "predicate": { "custom_model_data": 103 }, "model": "excursion_funnel/emitter_orange"},
+
+		{ "predicate": { "custom_model_data": 104 }, "model": "excursion_funnel/rusted/emitter_idle"},
+		{ "predicate": { "custom_model_data": 105 }, "model": "excursion_funnel/rusted/emitter_blue"},
+		{ "predicate": { "custom_model_data": 106 }, "model": "excursion_funnel/rusted/emitter_orange"},
+
+		{ "predicate": { "custom_model_data": 107 }, "model": "item/portal_items/button/box_socket"},
+		{ "predicate": { "custom_model_data": 108 }, "model": "item/portal_items/button/box_socket_orange"},
+		{ "predicate": { "custom_model_data": 109 }, "model": "item/portal_items/button/box_socket_plate"},
+
+		{ "predicate": { "custom_model_data": 110 }, "model": "item/portal_items/button/box_socket_rusted"},
+		{ "predicate": { "custom_model_data": 111 }, "model": "item/portal_items/button/box_socket_orange_rusted"},
+		{ "predicate": { "custom_model_data": 112 }, "model": "item/portal_items/button/box_socket_plate_rusted"},
+
+		{ "predicate": { "custom_model_data": 113 }, "model": "item/portal_items/hep/launcher_closed_idle"},
+		{ "predicate": { "custom_model_data": 117 }, "model": "item/portal_items/hep/catcher_opened_idle"}
+
+	]
+}

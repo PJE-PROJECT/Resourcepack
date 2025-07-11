@@ -1,0 +1,6 @@
+{
+	"parent": "overlay/v/64x128/template",
+	"textures": {
+		"0": "block/overlay/bts_sign_number_06"
+	}
+}

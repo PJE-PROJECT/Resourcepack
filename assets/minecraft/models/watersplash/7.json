@@ -1,0 +1,40 @@
+{
+	"texture_size": [96, 48],
+	"textures": {
+		"0": "block/watersplash/splashwake1",
+		"1": "block/watersplash/splash01",
+		"particle": "block/watersplash/splashwake1"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"faces": {
+				"north": {"uv": [0, 5.3125, 2.66667, 10.64583], "texture": "#1"},
+				"south": {"uv": [0, 5.3125, 2.66667, 10.64583], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, 0, 0],
+			"to": [8, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 5.3125, 2.66667, 10.64583], "texture": "#1"},
+				"west": {"uv": [0, 5.3125, 2.66667, 10.64583], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-3.2568, 0, -3.2568],
+			"to": [19.2568, 0, 19.2568],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-3.2568, 0, -3.2568]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		}
+	}
+}

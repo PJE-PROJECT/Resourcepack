@@ -1,0 +1,8 @@
+{
+	"parent": "block/dark_oak_button_pressed",
+	"textures": {
+		"1": "block/portal/laser_catcher_on_rusted",
+		"4": "block/portal/switch_rusted",
+		"particle": "block/portal/air"
+	}
+}

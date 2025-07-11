@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "": [
+	{ "model": "minecraft:block/ceiling/framework/metal/1" },
+	{ "model": "minecraft:block/ceiling/framework/metal/2" },
+	{ "model": "minecraft:block/ceiling/framework/metal/3" },
+	{ "model": "minecraft:block/ceiling/framework/metal/5" },
+	{ "model": "minecraft:block/ceiling/framework/metal/6" },
+	{ "model": "minecraft:block/ceiling/framework/metal/8" },
+	{ "model": "minecraft:block/ceiling/framework/metal/9" },
+	{ "model": "minecraft:block/ceiling/framework/metal/10" },
+	{ "model": "minecraft:block/ceiling/framework/metal/11" },
+	{ "model": "minecraft:block/ceiling/framework/metal/12" },
+	{ "model": "minecraft:block/ceiling/framework/metal/13" },
+	{ "model": "minecraft:block/ceiling/framework/metal/14" }
+		
+	]
+  }
+}

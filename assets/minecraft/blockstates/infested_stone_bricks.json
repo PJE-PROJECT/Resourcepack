@@ -1,0 +1,70 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "minecraft:block/stena_destroyed/black_1x1/2x2/1",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/2",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/3",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/4",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/5",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/6",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/7",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/8",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/9",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/10",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/11",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/12",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/13",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/14",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/15",
+      "x": 90
+    },
+	{
+     "model": "minecraft:block/stena_destroyed/black_1x1/2x2/16",
+      "x": 90
+    }
+    ]
+  }
+}

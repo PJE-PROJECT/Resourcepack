@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+		{ "model":"minecraft:block/ceiling/metal_clean/1"},
+	{ "model":"minecraft:block/ceiling/metal_clean/2"},
+	{ "model":"minecraft:block/ceiling/metal_clean/3"},
+	{ "model":"minecraft:block/ceiling/metal_clean/4"}
+		
+	]
+  }
+}

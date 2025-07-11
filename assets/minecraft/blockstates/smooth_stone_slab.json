@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "": [
+		{ "model": "minecraft:block/ceiling/framework/white/1" },
+	{ "model": "minecraft:block/ceiling/framework/white/2" },
+	{ "model": "minecraft:block/ceiling/framework/white/3" },
+	{ "model": "minecraft:block/ceiling/framework/white/5" },
+	{ "model": "minecraft:block/ceiling/framework/white/6" },
+	{ "model": "minecraft:block/ceiling/framework/white/8" },
+	{ "model": "minecraft:block/ceiling/framework/white/9" },
+	{ "model": "minecraft:block/ceiling/framework/white/10" },
+	{ "model": "minecraft:block/ceiling/framework/white/11" },
+	{ "model": "minecraft:block/ceiling/framework/white/12" },
+	{ "model": "minecraft:block/ceiling/framework/white/13" },
+	{ "model": "minecraft:block/ceiling/framework/white/14" }
+		
+	]
+  }
+}

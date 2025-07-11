@@ -1,0 +1,30 @@
+{
+	"texture_size": [1000, 1000],
+	"textures": {
+		"0": "block/netherrack",
+		"particle": "block/netherrack"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0.26563, 0.26563, 15.98571, 15.98571], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [0.26563, 0.26563, 15.98571, 15.98571], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0.26563, 0.26563, 15.98571, 15.98571], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0.26563, 0.26563, 15.98571, 15.98571], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0.26563, 0.26563, 15.98571, 15.98571], "texture": "#0", "cullface": "up"},
+				"down": {"uv": [0.26563, 0.26563, 15.98571, 15.98571], "texture": "#0", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"scale": [2, 0, 2]
+		}
+	}
+}

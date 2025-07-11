@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+		{ "model": "minecraft:block/pol/1" },
+	{ "model": "minecraft:block/pol/2" },
+	{ "model": "minecraft:block/pol/3" },
+	{ "model": "minecraft:block/pol/4" },
+	{ "model": "minecraft:block/pol/5" }
+		
+	]
+  }
+}

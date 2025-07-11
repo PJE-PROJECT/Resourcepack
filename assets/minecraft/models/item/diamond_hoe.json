@@ -1,0 +1,10318 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_hoe"
+	},
+	"overrides": [{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.000640204865557
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.001280409731114
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.001920614596671
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.002560819462228
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.003201024327785
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.003841229193342
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.004481434058899
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.005121638924456
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.005761843790013
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.00640204865557
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.007042253521127
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.007682458386684
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.008322663252241
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.008962868117798
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.009603072983355
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.010243277848912
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.010883482714469
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.011523687580026
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.012163892445583
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.01280409731114
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.013444302176697
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.014084507042254
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.01472471190781
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.015364916773367
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.016005121638924
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.016645326504481
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.017285531370038
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.017925736235595
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.018565941101152
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.019206145966709
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.019846350832266
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.020486555697823
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.02112676056338
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.021766965428937
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.022407170294494
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.023047375160051
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.023687580025608
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.024327784891165
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.024967989756722
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.025608194622279
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.026248399487836
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.026888604353393
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.02752880921895
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.028169014084507
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.028809218950064
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.029449423815621
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.030089628681178
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.030729833546735
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.031370038412292
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.032010243277849
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.032650448143406
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.033290653008963
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.03393085787452
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.034571062740077
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.035211267605634
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.035851472471191
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.036491677336748
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.037131882202305
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.037772087067862
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.038412291933419
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.039052496798976
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.039692701664533
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.04033290653009
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.040973111395647
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.041613316261204
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.042253521126761
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.042893725992318
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.043533930857875
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.044174135723432
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.044814340588988
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.045454545454545
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.046094750320102
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.046734955185659
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.047375160051216
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.048015364916773
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.04865556978233
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.049295774647887
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.049935979513444
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.050576184379001
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.051216389244558
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.051856594110115
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.052496798975672
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.053137003841229
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.053777208706786
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.054417413572343
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.0550576184379
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.055697823303457
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.056338028169014
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.056978233034571
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.057618437900128
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.058258642765685
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.058898847631242
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.059539052496799
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.060179257362356
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.060819462227913
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.06145966709347
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.062099871959027
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.062740076824584
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.063380281690141
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.064020486555698
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.064660691421255
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.065300896286812
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.065941101152369
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.066581306017926
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.067221510883483
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.06786171574904
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.068501920614597
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.069142125480154
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.069782330345711
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.070422535211268
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.071062740076825
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.071702944942382
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.072343149807939
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.072983354673496
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.073623559539052
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.074263764404609
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.074903969270166
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.075544174135723
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.07618437900128
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.076824583866837
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.077464788732394
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.078104993597951
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.078745198463508
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.079385403329065
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.080025608194622
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.080665813060179
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.081306017925736
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.081946222791293
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.08258642765685
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.083226632522407
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.083866837387964
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.084507042253521
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.085147247119078
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.085787451984635
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.086427656850192
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.087067861715749
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.087708066581306
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.088348271446863
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.08898847631242
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.089628681177977
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.090268886043534
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.090909090909091
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.091549295774648
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.092189500640205
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.092829705505762
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.093469910371319
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.094110115236876
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.094750320102433
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.09539052496799
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.096030729833547
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.096670934699104
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.097311139564661
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.097951344430218
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.098591549295775
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.099231754161332
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.099871959026889
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.100512163892446
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.101152368758003
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.10179257362356
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.102432778489117
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.103072983354673
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.10371318822023
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.104353393085787
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.104993597951344
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.105633802816901
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.106274007682458
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.106914212548015
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.107554417413572
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.108194622279129
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.108834827144686
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.109475032010243
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.1101152368758
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.110755441741357
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.111395646606914
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.112035851472471
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.112676056338028
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.113316261203585
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.113956466069142
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.114596670934699
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.115236875800256
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.115877080665813
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.11651728553137
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.117157490396927
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.117797695262484
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.118437900128041
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.119078104993598
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.119718309859155
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.120358514724712
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.120998719590269
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.121638924455826
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.122279129321383
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.12291933418694
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.123559539052497
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.124199743918054
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.124839948783611
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.125480153649168
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.126120358514725
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.126760563380282
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.127400768245839
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.128040973111396
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.128681177976953
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.12932138284251
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.129961587708067
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.130601792573624
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.131241997439181
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.131882202304738
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.132522407170294
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.133162612035851
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.133802816901408
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.134443021766965
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.135083226632522
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.135723431498079
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.136363636363636
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.137003841229193
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.13764404609475
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.138284250960307
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.138924455825864
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.139564660691421
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.140204865556978
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.140845070422535
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.141485275288092
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.142125480153649
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.142765685019206
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.143405889884763
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.14404609475032
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.144686299615877
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.145326504481434
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.145966709346991
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.146606914212548
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.147247119078105
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.147887323943662
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.148527528809219
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.149167733674776
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.149807938540333
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.15044814340589
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.151088348271447
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.151728553137004
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.152368758002561
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.153008962868118
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.153649167733675
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.154289372599232
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.154929577464789
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.155569782330346
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.156209987195903
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.15685019206146
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.157490396927017
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.158130601792574
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.158770806658131
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.159411011523688
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.160051216389245
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.160691421254802
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.161331626120359
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.161971830985916
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.162612035851472
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.163252240717029
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.163892445582586
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.164532650448143
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.1651728553137
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.165813060179257
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.166453265044814
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.167093469910371
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.167733674775928
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.168373879641485
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.169014084507042
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.169654289372599
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.170294494238156
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.170934699103713
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.17157490396927
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.172215108834827
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.172855313700384
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.173495518565941
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.174135723431498
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.174775928297055
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.175416133162612
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.176056338028169
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.176696542893726
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.177336747759283
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.17797695262484
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.178617157490397
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.179257362355954
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.179897567221511
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.180537772087068
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.181177976952625
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.181818181818182
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.182458386683739
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.183098591549296
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.183738796414853
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.18437900128041
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.185019206145967
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.185659411011524
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.186299615877081
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.186939820742638
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.187580025608195
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.188220230473752
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.188860435339309
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.189500640204866
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.190140845070423
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.19078104993598
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.191421254801537
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.192061459667093
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.19270166453265
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.193341869398207
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.193982074263764
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.194622279129321
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.195262483994878
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.195902688860435
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.196542893725992
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.197183098591549
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.197823303457106
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.198463508322663
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.19910371318822
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.199743918053777
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.200384122919334
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.201024327784891
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.201664532650448
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.202304737516005
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.202944942381562
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.203585147247119
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.204225352112676
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.204865556978233
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.20550576184379
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.206145966709347
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.206786171574904
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.207426376440461
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.208066581306018
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.208706786171575
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.209346991037132
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.209987195902689
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.210627400768246
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.211267605633803
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.21190781049936
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.212548015364917
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.213188220230474
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.213828425096031
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.214468629961588
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.215108834827145
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.215749039692702
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.216389244558259
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.217029449423816
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.217669654289373
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.21830985915493
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.218950064020487
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.219590268886044
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.220230473751601
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.220870678617157
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.221510883482714
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.222151088348271
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.222791293213828
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.223431498079385
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.224071702944942
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.224711907810499
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.225352112676056
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.225992317541613
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.22663252240717
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.227272727272727
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.227912932138284
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.228553137003841
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.229193341869398
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.229833546734955
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.230473751600512
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.231113956466069
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.231754161331626
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.232394366197183
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.23303457106274
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.233674775928297
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.234314980793854
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.234955185659411
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.235595390524968
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.236235595390525
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.236875800256082
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.237516005121639
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.238156209987196
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.238796414852753
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.23943661971831
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.240076824583867
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.240717029449424
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.241357234314981
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.241997439180538
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.242637644046095
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.243277848911652
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.243918053777209
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.244558258642766
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.245198463508323
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.24583866837388
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.246478873239437
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.247119078104994
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.247759282970551
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.248399487836108
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.249039692701665
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.249679897567222
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.250320102432778
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.250960307298335
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.251600512163892
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.252240717029449
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.252880921895006
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.253521126760563
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.25416133162612
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.254801536491677
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.255441741357234
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.256081946222791
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.256722151088348
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.257362355953905
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.258002560819462
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.258642765685019
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.259282970550576
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.259923175416133
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.26056338028169
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.261203585147247
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.261843790012804
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.262483994878361
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.263124199743918
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.263764404609475
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.264404609475032
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.265044814340589
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.265685019206146
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.266325224071703
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.26696542893726
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.267605633802817
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.268245838668374
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.268886043533931
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.269526248399488
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.270166453265045
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.270806658130602
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.271446862996159
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.272087067861716
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.272727272727273
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.27336747759283
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.274007682458387
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.274647887323944
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.275288092189501
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.275928297055058
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.276568501920615
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.277208706786172
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.277848911651729
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.278489116517286
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.279129321382843
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.279769526248399
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.280409731113956
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.281049935979513
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.28169014084507
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.282330345710627
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.282970550576184
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.283610755441741
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.284250960307298
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.284891165172855
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.285531370038412
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.286171574903969
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.286811779769526
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.287451984635083
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.28809218950064
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.288732394366197
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.289372599231754
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.290012804097311
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.290653008962868
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.291293213828425
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.291933418693982
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.292573623559539
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.293213828425096
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.293854033290653
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.29449423815621
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.295134443021767
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.295774647887324
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.296414852752881
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.297055057618438
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.297695262483995
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.298335467349552
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.298975672215109
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.299615877080666
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.300256081946223
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.30089628681178
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.301536491677337
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.302176696542894
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.302816901408451
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.303457106274008
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.304097311139565
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.304737516005122
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.305377720870679
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.306017925736236
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.306658130601793
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.30729833546735
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.307938540332907
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.308578745198464
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.30921895006402
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.309859154929577
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.310499359795134
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.311139564660691
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.311779769526248
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.312419974391805
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.313060179257362
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.313700384122919
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.314340588988476
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.314980793854033
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.31562099871959
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.316261203585147
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.316901408450704
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.317541613316261
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.318181818181818
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.318822023047375
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.319462227912932
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.320102432778489
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.320742637644046
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.321382842509603
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.32202304737516
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.322663252240717
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.323303457106274
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.323943661971831
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.324583866837388
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.325224071702945
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.325864276568502
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.326504481434059
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.327144686299616
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.327784891165173
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.32842509603073
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.329065300896287
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.329705505761844
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.330345710627401
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.330985915492958
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.331626120358515
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.332266325224072
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.332906530089629
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.333546734955186
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.334186939820743
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3348271446863
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.335467349551857
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.336107554417414
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.336747759282971
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.337387964148528
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.338028169014085
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.338668373879642
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.339308578745198
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.339948783610755
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.340588988476312
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.341229193341869
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.341869398207426
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.342509603072983
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.34314980793854
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.343790012804097
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.344430217669654
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.345070422535211
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.345710627400768
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.346350832266325
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.346991037131882
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.347631241997439
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.348271446862996
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.348911651728553
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.34955185659411
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.350192061459667
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.350832266325224
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.351472471190781
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.352112676056338
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.352752880921895
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.353393085787452
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.354033290653009
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.354673495518566
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.355313700384123
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.35595390524968
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.356594110115237
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.357234314980794
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.357874519846351
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.358514724711908
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.359154929577465
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.359795134443022
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.360435339308579
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.361075544174136
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.361715749039693
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.36235595390525
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.362996158770807
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.363636363636364
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.364276568501921
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.364916773367478
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.365556978233035
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.366197183098592
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.366837387964149
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.367477592829706
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.368117797695263
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.36875800256082
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.369398207426376
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.370038412291933
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.37067861715749
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.371318822023047
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.371959026888604
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.372599231754161
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.373239436619718
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.373879641485275
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.374519846350832
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.375160051216389
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.375800256081946
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.376440460947503
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.37708066581306
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.377720870678617
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.378361075544174
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.379001280409731
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.379641485275288
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.380281690140845
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.380921895006402
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.381562099871959
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.382202304737516
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.382842509603073
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.38348271446863
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.384122919334187
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.384763124199744
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.385403329065301
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.386043533930858
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.386683738796415
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.387323943661972
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.387964148527529
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.388604353393086
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.389244558258643
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3898847631242
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.390524967989757
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.391165172855314
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.391805377720871
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.392445582586428
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.393085787451985
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.393725992317542
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.394366197183099
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.395006402048656
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.395646606914213
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.39628681177977
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.396927016645327
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.397567221510884
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.39820742637644
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.398847631241997
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.399487836107554
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.400128040973111
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.400768245838668
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.401408450704225
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.402048655569782
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.402688860435339
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.403329065300896
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.403969270166453
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.40460947503201
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.405249679897567
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.405889884763124
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.406530089628681
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.407170294494238
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.407810499359795
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.408450704225352
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.409090909090909
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.409731113956466
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.410371318822023
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.41101152368758
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.411651728553137
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.412291933418694
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.412932138284251
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.413572343149808
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.414212548015365
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.414852752880922
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.415492957746479
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.416133162612036
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.416773367477593
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.41741357234315
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.418053777208707
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.418693982074264
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.419334186939821
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.419974391805378
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.420614596670935
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.421254801536492
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.421895006402049
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.422535211267606
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.423175416133163
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.42381562099872
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.424455825864277
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.425096030729834
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.425736235595391
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.426376440460948
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.427016645326504
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.427656850192061
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.428297055057618
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.428937259923175
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.429577464788732
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.430217669654289
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.430857874519846
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.431498079385403
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.43213828425096
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.432778489116517
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.433418693982074
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.434058898847631
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.434699103713188
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.435339308578745
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.435979513444302
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.436619718309859
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.437259923175416
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.437900128040973
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.43854033290653
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.439180537772087
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.439820742637644
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.440460947503201
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.441101152368758
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.441741357234315
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.442381562099872
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.443021766965429
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.443661971830986
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.444302176696543
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.4449423815621
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.445582586427657
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.446222791293214
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.446862996158771
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.447503201024328
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.448143405889885
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.448783610755442
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.449423815620999
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.450064020486556
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.450704225352113
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.45134443021767
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.451984635083227
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.452624839948784
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.453265044814341
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.453905249679898
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.454545454545455
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.455185659411012
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.455825864276568
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.456466069142125
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.457106274007682
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.457746478873239
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.458386683738796
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.459026888604353
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.45966709346991
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.460307298335467
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.460947503201024
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.461587708066581
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.462227912932138
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.462868117797695
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.463508322663252
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.464148527528809
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.464788732394366
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.465428937259923
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.46606914212548
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.466709346991037
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.467349551856594
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.467989756722151
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.468629961587708
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.469270166453265
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.469910371318822
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.470550576184379
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.471190781049936
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.471830985915493
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.47247119078105
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.473111395646607
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.473751600512164
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.474391805377721
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.475032010243278
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.475672215108835
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.476312419974392
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.476952624839949
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.477592829705506
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.478233034571063
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.47887323943662
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.479513444302177
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.480153649167734
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.480793854033291
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.481434058898848
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.482074263764405
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.482714468629962
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.483354673495519
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.483994878361076
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.484635083226633
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.48527528809219
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.485915492957746
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.486555697823303
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.48719590268886
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.487836107554417
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.488476312419974
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.489116517285531
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.489756722151088
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.490396927016645
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.491037131882202
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.491677336747759
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.492317541613316
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.492957746478873
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.49359795134443
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.494238156209987
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.494878361075544
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.495518565941101
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.496158770806658
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.496798975672215
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.497439180537772
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.498079385403329
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.498719590268886
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.499359795134443
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.500640204865557
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.501280409731114
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.501920614596671
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.502560819462228
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.503201024327785
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.503841229193342
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.504481434058899
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.505121638924456
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.505761843790013
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.50640204865557
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.507042253521127
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.507682458386684
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.508322663252241
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.508962868117798
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.509603072983355
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.510243277848912
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.510883482714469
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.511523687580026
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.512163892445583
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.51280409731114
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.513444302176697
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.514084507042254
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.51472471190781
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.515364916773368
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.516005121638924
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.516645326504481
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.517285531370038
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.517925736235595
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.518565941101152
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.519206145966709
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.519846350832266
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.520486555697823
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.52112676056338
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.521766965428937
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.522407170294494
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.523047375160051
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.523687580025608
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.524327784891165
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.524967989756722
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.525608194622279
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.526248399487836
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.526888604353393
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.52752880921895
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.528169014084507
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.528809218950064
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.529449423815621
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.530089628681178
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.530729833546735
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.531370038412292
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.532010243277849
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.532650448143406
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.533290653008963
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.53393085787452
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.534571062740077
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.535211267605634
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.535851472471191
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.536491677336748
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.537131882202305
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.537772087067862
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.538412291933419
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.539052496798976
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.539692701664533
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.54033290653009
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.540973111395647
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.541613316261204
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.542253521126761
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.542893725992318
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.543533930857875
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.544174135723431
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.544814340588989
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.545454545454545
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.546094750320102
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.546734955185659
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.547375160051216
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.548015364916773
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.54865556978233
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.549295774647887
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.549935979513444
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.550576184379001
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.551216389244558
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.551856594110115
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.552496798975672
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.553137003841229
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.553777208706786
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.554417413572343
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5550576184379
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.555697823303457
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.556338028169014
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.556978233034571
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.557618437900128
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.558258642765685
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.558898847631242
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.559539052496799
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.560179257362356
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.560819462227913
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.56145966709347
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.562099871959027
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.562740076824584
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.563380281690141
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.564020486555698
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.564660691421255
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.565300896286812
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.565941101152369
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.566581306017926
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.567221510883483
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.56786171574904
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.568501920614597
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.569142125480154
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.569782330345711
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.570422535211268
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.571062740076825
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.571702944942382
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.572343149807939
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.572983354673496
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.573623559539052
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.57426376440461
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.574903969270166
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.575544174135724
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.57618437900128
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.576824583866837
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.577464788732394
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.578104993597951
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.578745198463508
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.579385403329065
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.580025608194622
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.580665813060179
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.581306017925736
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.581946222791293
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.58258642765685
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.583226632522407
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.583866837387964
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.584507042253521
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.585147247119078
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.585787451984635
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.586427656850192
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.587067861715749
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.587708066581306
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.588348271446863
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.58898847631242
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.589628681177977
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.590268886043534
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.590909090909091
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.591549295774648
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.592189500640205
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.592829705505762
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.593469910371319
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.594110115236876
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.594750320102433
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.59539052496799
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.596030729833547
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.596670934699104
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.597311139564661
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.597951344430218
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.598591549295775
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.599231754161332
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.599871959026889
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.600512163892446
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.601152368758003
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.60179257362356
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.602432778489117
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.603072983354674
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.603713188220231
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.604353393085787
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.604993597951345
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.605633802816901
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.606274007682458
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.606914212548015
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.607554417413572
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.608194622279129
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.608834827144686
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.609475032010243
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6101152368758
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.610755441741357
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.611395646606914
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.612035851472471
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.612676056338028
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.613316261203585
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.613956466069142
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.614596670934699
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.615236875800256
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.615877080665813
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.61651728553137
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.617157490396927
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.617797695262484
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.618437900128041
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.619078104993598
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.619718309859155
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.620358514724712
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.620998719590269
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.621638924455826
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.622279129321383
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.62291933418694
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.623559539052497
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.624199743918054
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.624839948783611
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.625480153649168
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.626120358514725
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.626760563380282
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.627400768245839
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.628040973111396
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.628681177976953
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.62932138284251
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.629961587708067
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.630601792573624
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.631241997439181
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.631882202304738
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.632522407170295
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.633162612035852
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.633802816901408
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.634443021766965
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.635083226632522
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.635723431498079
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.636363636363636
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.637003841229193
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.63764404609475
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.638284250960307
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.638924455825864
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.639564660691421
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.640204865556978
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.640845070422535
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.641485275288092
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.642125480153649
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.642765685019206
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.643405889884763
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.64404609475032
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.644686299615877
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.645326504481434
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.645966709346991
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.646606914212548
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.647247119078105
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.647887323943662
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.648527528809219
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.649167733674776
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.649807938540333
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.65044814340589
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.651088348271447
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.651728553137004
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.652368758002561
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.653008962868118
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.653649167733675
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.654289372599232
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.654929577464789
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.655569782330346
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.656209987195903
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.65685019206146
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.657490396927017
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.658130601792574
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.658770806658131
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.659411011523688
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.660051216389245
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.660691421254802
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.661331626120359
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.661971830985916
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.662612035851472
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.663252240717029
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.663892445582586
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.664532650448143
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6651728553137
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.665813060179257
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.666453265044814
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.667093469910371
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.667733674775928
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.668373879641485
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.669014084507042
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.669654289372599
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.670294494238156
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.670934699103713
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.67157490396927
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.672215108834827
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.672855313700384
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.673495518565941
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.674135723431498
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.674775928297055
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.675416133162612
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.676056338028169
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.676696542893726
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.677336747759283
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.67797695262484
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.678617157490397
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.679257362355954
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.679897567221511
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.680537772087068
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.681177976952625
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.681818181818182
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.682458386683739
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.683098591549296
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.683738796414853
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.68437900128041
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.685019206145967
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.685659411011524
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.686299615877081
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.686939820742638
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.687580025608195
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.688220230473752
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.688860435339309
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.689500640204866
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.690140845070423
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.69078104993598
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.691421254801537
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.692061459667093
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.692701664532651
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.693341869398207
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.693982074263764
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.694622279129321
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.695262483994878
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.695902688860435
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.696542893725992
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.697183098591549
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.697823303457106
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.698463508322663
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.69910371318822
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.699743918053777
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.700384122919334
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.701024327784891
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.701664532650448
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.702304737516005
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.702944942381562
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.703585147247119
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.704225352112676
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.704865556978233
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.70550576184379
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.706145966709347
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.706786171574904
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.707426376440461
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.708066581306018
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.708706786171575
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.709346991037132
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.709987195902689
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.710627400768246
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.711267605633803
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.71190781049936
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.712548015364917
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.713188220230474
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.713828425096031
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.714468629961588
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.715108834827145
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.715749039692702
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.716389244558259
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.717029449423816
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.717669654289373
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.71830985915493
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.718950064020487
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.719590268886044
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7202304737516
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.720870678617158
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.721510883482714
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.722151088348272
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.722791293213828
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.723431498079385
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.724071702944942
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.724711907810499
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.725352112676056
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.725992317541613
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.72663252240717
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.727272727272727
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.727912932138284
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.728553137003841
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.729193341869398
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.729833546734955
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.730473751600512
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.731113956466069
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.731754161331626
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.732394366197183
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.73303457106274
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.733674775928297
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.734314980793854
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.734955185659411
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.735595390524968
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.736235595390525
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.736875800256082
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.737516005121639
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.738156209987196
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.738796414852753
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.73943661971831
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.740076824583867
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.740717029449424
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.741357234314981
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.741997439180538
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.742637644046095
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.743277848911652
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.743918053777209
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.744558258642766
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.745198463508323
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.74583866837388
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.746478873239437
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.747119078104994
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.747759282970551
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.748399487836108
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.749039692701665
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.749679897567222
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.750320102432779
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.750960307298335
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.751600512163893
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.752240717029449
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.752880921895006
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.753521126760563
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.75416133162612
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.754801536491677
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.755441741357234
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.756081946222791
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.756722151088348
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.757362355953905
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.758002560819462
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.758642765685019
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.759282970550576
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.759923175416133
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.76056338028169
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.761203585147247
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.761843790012804
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.762483994878361
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.763124199743918
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.763764404609475
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.764404609475032
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.765044814340589
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.765685019206146
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.766325224071703
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.76696542893726
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.767605633802817
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.768245838668374
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.768886043533931
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.769526248399488
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.770166453265045
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.770806658130602
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.771446862996159
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.772087067861716
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.772727272727273
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.77336747759283
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.774007682458387
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.774647887323944
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.775288092189501
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.775928297055058
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.776568501920615
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.777208706786172
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.777848911651729
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.778489116517286
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.779129321382843
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7797695262484
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.780409731113956
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.781049935979514
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.78169014084507
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.782330345710627
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.782970550576184
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.783610755441741
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.784250960307298
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.784891165172855
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.785531370038412
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.786171574903969
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.786811779769526
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.787451984635083
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.78809218950064
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.788732394366197
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.789372599231754
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.790012804097311
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.790653008962868
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.791293213828425
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.791933418693982
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.792573623559539
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.793213828425096
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.793854033290653
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.79449423815621
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.795134443021767
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.795774647887324
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.796414852752881
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.797055057618438
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.797695262483995
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.798335467349552
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.798975672215109
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.799615877080666
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.800256081946223
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.80089628681178
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.801536491677337
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.802176696542894
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.802816901408451
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.803457106274008
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.804097311139565
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.804737516005122
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.805377720870679
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.806017925736236
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.806658130601793
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.80729833546735
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.807938540332907
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.808578745198464
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.809218950064021
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.809859154929577
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.810499359795134
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.811139564660691
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.811779769526248
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.812419974391805
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.813060179257362
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.813700384122919
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.814340588988476
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.814980793854033
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.81562099871959
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.816261203585147
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.816901408450704
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.817541613316261
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.818181818181818
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.818822023047375
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.819462227912932
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.820102432778489
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.820742637644046
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.821382842509603
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.82202304737516
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.822663252240717
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.823303457106274
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.823943661971831
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.824583866837388
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.825224071702945
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.825864276568502
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.826504481434059
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.827144686299616
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.827784891165173
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.82842509603073
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.829065300896287
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.829705505761844
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.830345710627401
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.830985915492958
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.831626120358515
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.832266325224072
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.832906530089629
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.833546734955186
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.834186939820743
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8348271446863
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.835467349551857
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.836107554417414
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.836747759282971
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.837387964148528
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.838028169014085
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.838668373879642
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.839308578745199
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.839948783610755
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.840588988476312
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.841229193341869
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.841869398207426
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.842509603072983
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.84314980793854
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.843790012804097
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.844430217669654
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.845070422535211
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.845710627400768
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.846350832266325
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.846991037131882
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.847631241997439
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.848271446862996
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.848911651728553
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.84955185659411
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.850192061459667
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.850832266325224
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.851472471190781
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.852112676056338
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.852752880921895
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.853393085787452
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.854033290653009
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.854673495518566
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.855313700384123
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.85595390524968
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.856594110115237
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.857234314980794
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.857874519846351
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.858514724711908
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.859154929577465
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.859795134443022
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.860435339308579
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.861075544174136
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.861715749039693
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.86235595390525
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.862996158770807
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.863636363636364
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.864276568501921
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.864916773367478
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.865556978233035
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.866197183098592
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.866837387964149
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.867477592829706
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.868117797695262
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.86875800256082
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.869398207426376
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.870038412291933
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.87067861715749
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.871318822023047
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.871959026888604
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.872599231754161
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.873239436619718
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.873879641485275
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.874519846350832
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.875160051216389
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.875800256081946
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.876440460947503
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.87708066581306
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.877720870678617
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.878361075544174
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.879001280409731
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.879641485275288
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.880281690140845
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.880921895006402
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.881562099871959
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.882202304737516
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.882842509603073
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.88348271446863
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.884122919334187
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.884763124199744
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.885403329065301
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.886043533930858
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.886683738796415
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.887323943661972
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.887964148527529
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.888604353393086
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.889244558258643
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8898847631242
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.890524967989757
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.891165172855314
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.891805377720871
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.892445582586428
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.893085787451985
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.893725992317542
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.894366197183099
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.895006402048656
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.895646606914213
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.89628681177977
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.896927016645327
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.897567221510883
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.898207426376441
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.898847631241997
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.899487836107554
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.900128040973111
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.900768245838668
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.901408450704225
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.902048655569782
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.902688860435339
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.903329065300896
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.903969270166453
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.90460947503201
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.905249679897567
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.905889884763124
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.906530089628681
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.907170294494238
+			},
+			"model": "item/diamond_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.91101152368758
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_26"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9116517285531369
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_25"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.912291933418694
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_24"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9129321382842509
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_23"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.913572343149808
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_22"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9142125480153649
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_21"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9148527528809218
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_20"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9154929577464789
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_19"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9161331626120358
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_18"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9167733674775927
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_17"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9174135723431498
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_16"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9180537772087067
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_15"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9186939820742638
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_14"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9193341869398207
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_13"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9199743918053777
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_12"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9206145966709347
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_11"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9212548015364916
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_10"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9218950064020486
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_9"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9225352112676056
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_8"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9231754161331626
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_7"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9238156209987195
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_6"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9244558258642765
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_5"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9250960307298335
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_4"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9257362355953905
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_3"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9263764404609475
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9270166453265044
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_1"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9276568501920615
+			},
+			"model": "item/portal_items/dropper/portal_dropper_2_0"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9334186939820742
+			},
+			"model": "item/portal_items/button/portal_button_2_plate"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9353393085787451
+			},
+			"model": "item/portal_items/button/portal_button_base_off"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9359795134443022
+			},
+			"model": "item/portal_items/button/portal_button_base_on"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9366197183098591
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_stickman_7"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9372599231754161
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_stickman_6"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9379001280409731
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_stickman_5"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.93854033290653
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_stickman_4"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.939180537772087
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_stickman_3"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.939820742637644
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_stickman_2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.940460947503201
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_stickman_1"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.941101152368758
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_stickman_0"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.941741357234315
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_smooth_7"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9423815620998719
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_smooth_6"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9430217669654289
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_smooth_5"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9436619718309859
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_smooth_4"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9443021766965428
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_smooth_3"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9449423815620999
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_smooth_2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9455825864276568
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_smooth_1"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9462227912932137
+			},
+			"model": "item/portal_items/portal_door/portal_door_2_panel_smooth_0"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9475032010243277
+			},
+			"model": "item/portal_items/portal_door/portal_door_frame_1_n"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9481434058898848
+			},
+			"model": "item/portal_items/portal_door/portal_door_frame_1_p"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9641485275288092
+			},
+			"model": "item/portal_items/camera/portalcamera_full_floor_2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9647887323943661
+			},
+			"model": "item/portal_items/camera/portalcamera_full_2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9654289372599232
+			},
+			"model": "item/portal_items/camera/portalcamera_head_2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9660691421254801
+			},
+			"model": "item/portal_items/camera/portalcamera_base_2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.969910371318822
+			},
+			"model": "item/portal_items/material_emancipation_grill/material_emancipation_grill_base_2_door_open"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.970550576184379
+			},
+			"model": "item/portal_items/material_emancipation_grill/material_emancipation_grill_base_2_door_closed"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9724711907810499
+			},
+			"model": "item/portal_items/material_emancipation_grill/material_emancipation_grill_base_2"
+		}
+	]
+}

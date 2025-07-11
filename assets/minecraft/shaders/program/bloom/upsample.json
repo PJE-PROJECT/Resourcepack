@@ -1,0 +1,18 @@
+{
+    "blend": {
+        "func": "add",
+        "srcrgb": "one",
+        "dstrgb": "zero"
+    },
+    "vertex": "bloom/upsample",
+    "fragment": "bloom/upsample",
+    "attributes": [],
+    "samplers": [
+        { "name": "DiffuseSampler" },
+        { "name": "BlurSampler" }
+    ],
+    "uniforms": [
+        { "name": "OutSize",   "type": "float", "count": 2, "values": [ 1.0, 1.0 ] },
+        { "name": "Iteration", "type": "float", "count": 1, "values": [ 1.0 ] }
+    ]
+}

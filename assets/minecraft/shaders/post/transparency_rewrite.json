@@ -1,0 +1,366 @@
+{
+    "targets": [
+        "translucent",
+        "itemEntity",
+        "itemEntity2",
+        "particles",
+        "clouds",
+        "weather",
+
+        "depth",
+        "portal1",
+        "portal1_depth",
+        "portal2",
+        "portal2_depth",
+
+        "control",
+        "light",
+        "swap",
+        "final",
+        "history",
+
+        "emissive", "a", "b", "c", "d", "e", "f",
+        "e1", "d1", "c1", "b1", "a1", "bloom"
+    ],
+    "passes": [
+        {
+            "name": "portal/collect_depth",
+            "intarget": "minecraft:main",
+            "outtarget": "depth",
+            "auxtargets": [
+                { "name": "DiffuseDepthSampler", "id": "minecraft:main:depth" },
+                { "name": "TranslucentDepthSampler", "id": "translucent:depth" },
+                { "name": "ItemEntityDepthSampler", "id": "itemEntity:depth" },
+                { "name": "ParticlesDepthSampler", "id": "particles:depth" },
+                { "name": "WeatherDepthSampler", "id": "weather:depth" },
+                { "name": "CloudsDepthSampler", "id": "clouds:depth" }
+            ]
+        },
+        {
+            "name": "blit",
+            "intarget": "minecraft:main",
+            "outtarget": "control"
+        },
+
+        {
+            "name": "light/mask",
+            "intarget": "itemEntity",
+            "outtarget": "light"
+        },
+        {
+            "name": "light/remove",
+            "intarget": "itemEntity",
+            "outtarget": "itemEntity2"
+        },
+        {
+            "name": "light/blur",
+            "intarget": "light",
+            "outtarget": "swap",
+            "uniforms": [
+                { "name": "BlurDir", "values": [ 1.0, 0.0 ] },
+                { "name": "Radius", "values": [ 2.0 ] }
+            ]
+        },
+        {
+            "name": "light/blur",
+            "intarget": "swap",
+            "outtarget": "light",
+            "uniforms": [
+                { "name": "BlurDir", "values": [ 0.0, 1.0 ] },
+                { "name": "Radius", "values": [ 2.0 ] }
+            ]
+        },
+        {
+            "name": "light/blur",
+            "intarget": "light",
+            "outtarget": "swap",
+            "uniforms": [
+                { "name": "BlurDir", "values": [ 1.0, 0.0 ] },
+                { "name": "Radius", "values": [ 4.0 ] }
+            ]
+        },
+        {
+            "name": "light/blur",
+            "intarget": "swap",
+            "outtarget": "light",
+            "uniforms": [
+                { "name": "BlurDir", "values": [ 0.0, 1.0 ] },
+                { "name": "Radius", "values": [ 4.0 ] }
+            ]
+        },
+
+        {
+            "name": "portal/render",
+            "intarget": "minecraft:main",
+            "outtarget": "swap",
+            "auxtargets": [
+                { "name": "DiffuseDepthSampler", "id": "depth" },
+                { "name": "SavedSampler", "id": "portal1" },
+                { "name": "SavedDepthSampler", "id": "portal1_depth" },
+                { "name": "ItemSampler", "id": "itemEntity" }
+            ],
+            "uniforms": [ { "name": "RedCol", "values": [ 251.0 ] } ]
+        },
+        {
+            "name": "portal/render",
+            "intarget": "swap",
+            "outtarget": "final",
+            "auxtargets": [
+                { "name": "DiffuseDepthSampler", "id": "depth" },
+                { "name": "SavedSampler", "id": "portal2" },
+                { "name": "SavedDepthSampler", "id": "portal2_depth" },
+                { "name": "ItemSampler", "id": "itemEntity" }
+            ],
+            "uniforms": [ { "name": "RedCol", "values": [ 250.0 ] } ]
+        },
+
+        {
+            "name": "transparency",
+            "intarget": "minecraft:main",
+            "outtarget": "final",
+            "auxtargets": [
+                { "name": "DiffuseDepthSampler", "id": "minecraft:main:depth" },
+                { "name": "TranslucentSampler", "id": "translucent" },
+                { "name": "TranslucentDepthSampler", "id": "translucent:depth" },
+                { "name": "ItemEntitySampler", "id": "final" },
+                { "name": "ItemEntityDepthSampler", "id": "itemEntity:depth" },
+                { "name": "ParticlesSampler", "id": "particles" },
+                { "name": "ParticlesDepthSampler", "id": "particles:depth" },
+                { "name": "CloudsSampler", "id": "clouds" },
+                { "name": "CloudsDepthSampler", "id": "clouds:depth" },
+                { "name": "WeatherSampler", "id": "weather" },
+                { "name": "WeatherDepthSampler", "id": "weather:depth" }
+            ]
+        },
+
+        {
+            "name": "blit",
+            "intarget": "portal1",
+            "outtarget": "swap"
+        },
+        {
+            "name": "portal/save",
+            "intarget": "final",
+            "outtarget": "portal1",
+            "auxtargets": [
+                { "name": "SavedSampler", "id": "swap" },
+                { "name": "ParticlesSampler", "id": "itemEntity" }
+            ],
+            "uniforms": [
+                { "name": "Color", "values": [ 254, 253, 250 ] },
+                { "name": "Offset", "values": [ 0.0 ] }
+            ]
+        },
+        {
+            "name": "blit",
+            "intarget": "portal1_depth",
+            "outtarget": "swap"
+        },
+        {
+            "name": "portal/save",
+            "intarget": "depth",
+            "outtarget": "portal1_depth",
+            "auxtargets": [
+                { "name": "SavedSampler", "id": "swap" },
+                { "name": "ParticlesSampler", "id": "itemEntity" }
+            ],
+            "uniforms": [
+                { "name": "Color", "values": [ 254, 253, 250 ] },
+                { "name": "Offset", "values": [ 0.0 ] }
+            ]
+        },
+
+        {
+            "name": "blit",
+            "intarget": "portal2",
+            "outtarget": "swap"
+        },
+        {
+            "name": "portal/save",
+            "intarget": "final",
+            "outtarget": "portal2",
+            "auxtargets": [
+                { "name": "SavedSampler", "id": "swap" },
+                { "name": "ParticlesSampler", "id": "itemEntity" }
+            ],
+            "uniforms": [
+                { "name": "Color", "values": [ 254, 253, 251 ] },
+                { "name": "Offset", "values": [ 0.0 ] }
+            ]
+        },
+        {
+            "name": "blit",
+            "intarget": "portal2_depth",
+            "outtarget": "swap"
+        },
+        {
+            "name": "portal/save",
+            "intarget": "depth",
+            "outtarget": "portal2_depth",
+            "auxtargets": [
+                { "name": "SavedSampler", "id": "swap" },
+                { "name": "ParticlesSampler", "id": "itemEntity" }
+            ],
+            "uniforms": [
+                { "name": "Color", "values": [ 254, 253, 251 ] },
+                { "name": "Offset", "values": [ 0.0 ] }
+            ]
+        },
+
+        {
+            "name": "bloom/emissive",
+            "intarget": "final",
+            "outtarget": "emissive"
+        },
+        {
+            "name": "bloom/downsample",
+            "intarget": "emissive",
+            "outtarget": "a",
+            "use_linear_filter": true,
+            "uniforms": [ { "name": "Iteration", "values": [ 1.0 ] } ]
+        },
+        {
+            "name": "bloom/downsample",
+            "intarget": "a",
+            "outtarget": "b",
+            "use_linear_filter": true,
+            "uniforms": [ { "name": "Iteration", "values": [ 2.0 ] } ]
+        },
+        {
+            "name": "bloom/downsample",
+            "intarget": "b",
+            "outtarget": "c",
+            "use_linear_filter": true,
+            "uniforms": [ { "name": "Iteration", "values": [ 3.0 ] } ]
+        },
+        {
+            "name": "bloom/downsample",
+            "intarget": "c",
+            "outtarget": "d",
+            "use_linear_filter": true,
+            "uniforms": [ { "name": "Iteration", "values": [ 4.0 ] } ]
+        },
+        {
+            "name": "bloom/downsample",
+            "intarget": "d",
+            "outtarget": "e",
+            "use_linear_filter": true,
+            "uniforms": [ { "name": "Iteration", "values": [ 5.0 ] } ]
+        },
+        {
+            "name": "bloom/downsample",
+            "intarget": "e",
+            "outtarget": "f",
+            "use_linear_filter": true,
+            "uniforms": [ { "name": "Iteration", "values": [ 6.0 ] } ]
+        },
+        {
+            "name": "bloom/upsample",
+            "intarget": "f",
+            "outtarget": "e1",
+            "use_linear_filter": true,
+            "auxtargets": [ { "name": "BlurSampler", "id": "e" } ],
+            "uniforms": [ { "name": "Iteration", "values": [ 6.0 ] } ]
+        },
+        {
+            "name": "bloom/upsample",
+            "intarget": "e1",
+            "outtarget": "d1",
+            "use_linear_filter": true,
+            "auxtargets": [ { "name": "BlurSampler", "id": "d" } ],
+            "uniforms": [ { "name": "Iteration", "values": [ 5.0 ] } ]
+        },
+        {
+            "name": "bloom/upsample",
+            "intarget": "d1",
+            "outtarget": "c1",
+            "use_linear_filter": true,
+            "auxtargets": [ { "name": "BlurSampler", "id": "c" } ],
+            "uniforms": [ { "name": "Iteration", "values": [ 4.0 ] } ]
+        },
+        {
+            "name": "bloom/upsample",
+            "intarget": "c1",
+            "outtarget": "b1",
+            "use_linear_filter": true,
+            "auxtargets": [ { "name": "BlurSampler", "id": "b" } ],
+            "uniforms": [ { "name": "Iteration", "values": [ 3.0 ] } ]
+        },
+        {
+            "name": "bloom/upsample",
+            "intarget": "b1",
+            "outtarget": "a1",
+            "use_linear_filter": true,
+            "auxtargets": [ { "name": "BlurSampler", "id": "a" } ],
+            "uniforms": [ { "name": "Iteration", "values": [ 2.0 ] } ]
+        },
+        {
+            "name": "bloom/upsample",
+            "intarget": "a1",
+            "outtarget": "bloom",
+            "use_linear_filter": true,
+            "auxtargets": [ { "name": "BlurSampler", "id": "emissive" } ],
+            "uniforms": [ { "name": "Iteration", "values": [ 1.0 ] } ]
+        },
+        {
+            "name": "bloom/apply",
+            "intarget": "final",
+            "outtarget": "swap",
+            "auxtargets": [ { "name": "BloomSampler", "id": "bloom" } ]
+        },
+
+        {
+            "name": "post/reflection",
+            "intarget": "swap",
+            "outtarget": "minecraft:main",
+            "auxtargets": [
+                { "name": "ControlSampler", "id": "itemEntity" },
+                { "name": "TranslucentSampler", "id": "translucent" }
+            ]
+        },
+        {
+            "name": "post/vibrancy",
+            "intarget": "minecraft:main",
+            "outtarget": "swap"
+        },
+        {
+            "name": "post/no_draw",
+            "intarget": "swap",
+            "outtarget": "minecraft:main",
+            "auxtargets": [
+                { "name": "SavedSampler", "id": "history" },
+                { "name": "DepthSampler", "id": "final:depth" }
+            ]
+        },
+        {
+            "name": "blit",
+            "intarget": "minecraft:main",
+            "outtarget": "history"
+        },
+
+        {
+            "name": "ui/loading",
+            "intarget": "minecraft:main",
+            "outtarget": "swap",
+            "auxtargets": [
+                { "name": "ControllerSampler", "id": "control" },
+                { "name": "TitlesSampler", "id": "titles", "width": 1280, "height": 2880, "bilinear": true },
+                { "name": "LogoSampler", "id": "loading", "width": 1280, "height": 6480, "bilinear": true }
+            ]
+        },
+        {
+            "name": "ui/pause_blur",
+            "intarget": "swap",
+            "outtarget": "a",
+            "auxtargets": [ { "name": "ControllerSampler", "id": "control" } ],
+            "uniforms": [ { "name": "BlurDir", "values": [ 1.0, 0.0 ] } ]
+        },
+        {
+            "name": "ui/pause_blur",
+            "intarget": "a",
+            "outtarget": "minecraft:main",
+            "auxtargets": [ { "name": "ControllerSampler", "id": "control" } ],
+            "uniforms": [ { "name": "BlurDir", "values": [ 0.0, 1.0 ] } ]
+        }
+    ]
+}

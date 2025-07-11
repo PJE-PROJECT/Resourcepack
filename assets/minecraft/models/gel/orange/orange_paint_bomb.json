@@ -1,0 +1,6 @@
+{
+	"parent": "gel/blue/blue_paint_bomb",
+	"textures": {
+		"0": "item/objmc/gel/orange"
+	}
+}

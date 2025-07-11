@@ -1,0 +1,19 @@
+{
+	"format_version": "1.21.6",
+	"textures": {
+		"0": "block/portal/53",
+		"2": "block/portal/black",
+		"particle": "block/portal/air"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 1]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [12.0057, 0.03125, 15.98433, 4.03125], "texture": "#0"}
+			}
+		}
+	]
+}

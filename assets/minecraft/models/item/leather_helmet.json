@@ -1,0 +1,37 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/netherite_shovel"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "item/portalgun/draw"},
+		{ "predicate": { "custom_model_data": 2 }, "model": "item/portalgun/idle_to_carrying"},
+		{ "predicate": { "custom_model_data": 3 }, "model": "item/portalgun/fire"},
+		{ "predicate": { "custom_model_data": 4 }, "model": "item/portalgun/carrying_to_idle"},
+		{ "predicate": { "custom_model_data": 5 }, "model": "item/portalgun/dryfire"},
+		{ "predicate": { "custom_model_data": 12 }, "model": "item/dropper"},
+		{ "predicate": { "custom_model_data": 13 }, "model": "item/p3"},
+		{ "predicate": { "custom_model_data": 14 }, "model": "item/gun"},
+		{ "predicate": { "custom_model_data": 15 }, "model": "block/granite"},
+		{ "predicate": { "custom_model_data": 16 }, "model": "particle/paint_bomb/1"},
+		{ "predicate": { "custom_model_data": 17 }, "model": "particle/paint_bomb/2"},
+		{ "predicate": { "custom_model_data": 18 }, "model": "particle/paint_bomb/3"},
+		{ "predicate": { "custom_model_data": 19 }, "model": "particle/paint_bomb/4"},
+		{ "predicate": { "custom_model_data": 20 }, "model": "particle/paint_bomb/5"},
+		{ "predicate": { "custom_model_data": 21 }, "model": "particle/paint_bomb/6"},
+		{ "predicate": { "custom_model_data": 22 }, "model": "particle/paint_bomb/7"},
+		{ "predicate": { "custom_model_data": 23 }, "model": "particle/paint_bomb/8"},
+		{ "predicate": { "custom_model_data": 24 }, "model": "particle/paint_bomb/9"},
+		{ "predicate": { "custom_model_data": 25 }, "model": "particle/paint_bomb/10"},
+		{ "predicate": { "custom_model_data": 26 }, "model": "particle/paint_bomb/11"},
+		{ "predicate": { "custom_model_data": 27 }, "model": "particle/paint_bomb/12"},
+		{ "predicate": { "custom_model_data": 28 }, "model": "particle/paint_bomb/13"},
+		{ "predicate": { "custom_model_data": 29 }, "model": "particle/paint_bomb/14"},
+		{ "predicate": { "custom_model_data": 30 }, "model": "particle/paint_bomb/15"},
+		{ "predicate": { "custom_model_data": 31 }, "model": "particle/paint_bomb/16"},
+		{ "predicate": { "custom_model_data": 32 }, "model": "particle/paint_bomb/17"}
+
+
+
+	]
+}

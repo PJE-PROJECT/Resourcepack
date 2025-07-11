@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+		{ "model": "minecraft:block/pol_destroyed/1" },
+	{ "model": "minecraft:block/pol_destroyed/2" },
+	{ "model": "minecraft:block/pol_destroyed/3" },
+	{ "model": "minecraft:block/pol_destroyed/4" },
+	{ "model": "minecraft:block/pol_destroyed/5" }
+		
+	]
+  }
+}

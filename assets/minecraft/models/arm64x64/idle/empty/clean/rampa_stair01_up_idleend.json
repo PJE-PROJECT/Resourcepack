@@ -1,0 +1,6 @@
+{
+	"parent": "arm64x64/idle/empty/rampa_stair01_up_idleend",
+	"textures": {
+		"0": "item/objmc/arm64x64/idle/empty/clean/rampa_stair01_up_idleend"
+	}
+}

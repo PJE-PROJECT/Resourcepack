@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "\u00a76Portal: \u00a79Java Edition\u00a74\u00a7o by DasDiamond"
+  },
+  "sodium": {
+    "ignored_shaders": [
+      "rendertype_solid.json", 
+      "rendertype_solid.fsh",
+      "rendertype_solid.vsh",
+      "rendertype_cutout.json",
+      "rendertype_cutout_mipped.json",
+      "rendertype_translucent.json",
+      "light.glsl",
+      "fog.glsl"
+    ]
+  }
+}

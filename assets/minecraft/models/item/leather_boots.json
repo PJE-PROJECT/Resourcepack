@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+        "layer0": "item/leather_boots",
+        "layer1": "item/leather_boots_overlay"
+	},
+	"overrides": [
+		{ "predicate": { "damage": 0 }, "model": "item/leather_boots" },
+		{ "predicate": { "damaged": 0, "damage": 0.045454545454545 }, "model": "portal/ghosting" },
+		{ "predicate": { "damaged": 0, "damage": 0.075757575757576 }, "model": "portal/portal_open" },
+		{ "predicate": { "damaged": 0, "damage": 0.090909090909091 }, "model": "portal/portal_closed" },
+		{ "predicate": { "damaged": 0, "damage": 0.106060606060606 }, "model": "portal/empty" },
+		{ "predicate": { "damaged": 0, "damage": 0.136363636363636 }, "model": "laser/purplelaser" },
+		{ "predicate": { "damaged": 1 }, "model": "item/leather_boots" }
+	]
+}

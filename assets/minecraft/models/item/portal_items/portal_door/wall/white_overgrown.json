@@ -1,0 +1,6 @@
+{
+	"parent": "item/portal_items/portal_door/wall/metal_overgrown",
+	"textures": {
+		"0": "block/door_wall/white_overgrown"
+	}
+}

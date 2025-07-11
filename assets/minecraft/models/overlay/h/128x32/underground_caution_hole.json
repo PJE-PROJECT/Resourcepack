@@ -1,0 +1,6 @@
+{
+	"parent": "overlay/h/128x32/template",
+	"textures": {
+		"0": "block/overlay/underground_caution_hole"
+	}
+}

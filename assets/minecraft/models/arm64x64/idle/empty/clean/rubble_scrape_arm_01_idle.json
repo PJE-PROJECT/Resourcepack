@@ -1,0 +1,6 @@
+{
+	"parent": "arm64x64/idle/empty/rubble_scrape_arm_01_idle",
+	"textures": {
+		"0": "item/objmc/arm64x64/idle/empty/clean/rubble_scrape_arm_01_idle"
+	}
+}

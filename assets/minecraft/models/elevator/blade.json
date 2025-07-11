@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [18, 18],
+	"textures": {
+		"2": "block/portal/elevator/elevator_blades",
+		"particle": "block/portal/elevator/elevator_on"
+	},
+	"elements": [
+		{
+			"from": [5.53245, 13.66807, -8.7],
+			"to": [8.63245, 13.66807, -1.9],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [7.08245, 13.66807, -5.3]},
+			"faces": {
+				"up": {"uv": [1.17188, 2.57813, 2.25208, 7.10694], "texture": "#2"},
+				"down": {"uv": [0.20313, 10.34132, 2.45521, 0], "texture": "#2"}
+			}
+		},
+		{
+			"from": [10.3, 10.3, 17.9],
+			"to": [13.4, 10.3, 24.7],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [1, 0, 15]},
+			"faces": {
+				"up": {"uv": [1.17188, 2.57813, 2.25208, 7.10694], "texture": "#2"},
+				"down": {"uv": [2.45521, 0, 0.20313, 10.34132], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"translation": [0, -1.25, 0],
+			"scale": [0.38477, 0.35742, 1]
+		},
+		"head": {
+			"translation": [0, 10, 0],
+			"scale": [2.7, 1, 2.7]
+		},
+		"fixed": {
+			"rotation": [90, 0, 0],
+			"translation": [-49.25, 48, 32],
+			"scale": [3, 3, 3]
+		}
+	}
+}

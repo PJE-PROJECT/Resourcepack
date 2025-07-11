@@ -1,0 +1,29 @@
+{
+	"textures": {
+		"3": "block/portal/24"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3.5, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [-4.5, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 13.063, 15.998, 14.311], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [0, 13.063, 15.998, 14.311], "rotation": 180, "texture": "#3"},
+				"west": {"uv": [0, 13.063, 15.998, 14.311], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [85.38, -39.49, 83.35],
+			"translation": [-6.25, 5.5, 0],
+			"scale": [1, 1.24805, 1.27344]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -9],
+			"scale": [1.988, 2, 1.988]
+		}
+	}
+}

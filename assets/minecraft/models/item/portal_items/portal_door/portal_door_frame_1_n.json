@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/portal_items/portal_door/portal_door_frame_1_p",
+	"textures": {
+		"Wall": "block/portal/1",
+		"Door_Frame": "item/portal_items/portal_door/door_frame"
+	}
+}

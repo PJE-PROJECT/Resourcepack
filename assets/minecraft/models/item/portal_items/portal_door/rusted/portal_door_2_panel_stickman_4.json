@@ -1,0 +1,9 @@
+{
+	"__comment": "Lidcer Studio",
+	"parent": "item/portal_items/portal_door/portal_door_2_panel_stickman_0",
+	"textures": {
+		"Door_Frame": "item/portal_items/portal_door/door_frame",
+		"door_texture_stickman": "item/portal_items/portal_door/rusted/door_2_stickman_4",
+		"door_texture_smooth": "item/portal_items/portal_door/rusted/door_2_smooth_4"
+	}
+}

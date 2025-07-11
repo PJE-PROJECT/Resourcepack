@@ -1,0 +1,6 @@
+{
+	"parent": "item/portal_items/cube/cube_s_rusted_off",
+	"textures": {
+		"0": "item/objmc/cube_c_off"
+	}
+}

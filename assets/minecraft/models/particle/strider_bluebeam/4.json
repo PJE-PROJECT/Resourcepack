@@ -1,0 +1,6 @@
+{
+	"parent": "particle/strider_bluebeam/1",
+	"textures": {
+		"2": "block/portal/particle/strider_bluebeam/strider_bluebeam4"
+	}
+}

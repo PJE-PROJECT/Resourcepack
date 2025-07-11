@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [1000, 1000],
+	"textures": {
+		"particle": "block/portal/air"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, -6.5, 0],
+			"scale": [0.73633, 0.58984, 1]
+		}
+	}
+}

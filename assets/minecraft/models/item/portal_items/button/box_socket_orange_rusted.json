@@ -1,0 +1,6 @@
+{
+	"parent": "item/portal_items/button/box_socket",
+	"textures": {
+		"0": "item/objmc/box_socket_orange_rusted"
+	}
+}

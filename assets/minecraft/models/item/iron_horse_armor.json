@@ -1,0 +1,42 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_horse_armor"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "mainmenu/background"},
+		{ "predicate": { "custom_model_data": 2 }, "model": "mainmenu/main1"},
+		{ "predicate": { "custom_model_data": 3 }, "model": "mainmenu/main2"},
+		{ "predicate": { "custom_model_data": 4 }, "model": "mainmenu/main3"},
+		{ "predicate": { "custom_model_data": 5 }, "model": "mainmenu/main4"},
+		{ "predicate": { "custom_model_data": 6 }, "model": "mainmenu/main5"},
+		{ "predicate": { "custom_model_data": 7 }, "model": "mainmenu/load1"},
+		{ "predicate": { "custom_model_data": 8 }, "model": "mainmenu/load2"},
+		{ "predicate": { "custom_model_data": 9 }, "model": "mainmenu/load3"},
+		{ "predicate": { "custom_model_data": 10 }, "model": "mainmenu/quit1"},
+		{ "predicate": { "custom_model_data": 11 }, "model": "mainmenu/quit2"},
+		{ "predicate": { "custom_model_data": 12 }, "model": "mainmenu/quit3"},
+
+
+
+
+
+
+
+
+
+		{ "predicate": { "custom_model_data": 23 }, "model": "mainmenu/pause1"},
+		{ "predicate": { "custom_model_data": 24 }, "model": "mainmenu/pause2"},
+		{ "predicate": { "custom_model_data": 25 }, "model": "mainmenu/pause3"},
+		{ "predicate": { "custom_model_data": 26 }, "model": "mainmenu/pause4"},
+		{ "predicate": { "custom_model_data": 27 }, "model": "mainmenu/pause5"},
+		{ "predicate": { "custom_model_data": 28 }, "model": "mainmenu/pause6"},
+		{ "predicate": { "custom_model_data": 29 }, "model": "mainmenu/pause7"},
+
+		{ "predicate": { "custom_model_data": 30 }, "model": "mainmenu/options1"},
+		{ "predicate": { "custom_model_data": 31 }, "model": "mainmenu/options2"},
+		{ "predicate": { "custom_model_data": 32 }, "model": "mainmenu/options3"},
+		{ "predicate": { "custom_model_data": 33 }, "model": "mainmenu/options4"},
+		{ "predicate": { "custom_model_data": 34 }, "model": "mainmenu/options5"}
+	]
+}

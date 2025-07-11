@@ -1,0 +1,6 @@
+{
+	"parent": "item/portal_items/button/portal_button_base_off",
+	"textures": {
+		"1": "item/portal_items/portal_button/cube_button_on"
+	}
+}

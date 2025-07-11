@@ -1,0 +1,18 @@
+{
+    "blend": {
+        "func": "add",
+        "srcrgb": "one",
+        "dstrgb": "zero"
+    },
+    "vertex": "ui/pause_blur",
+    "fragment": "ui/pause_blur",
+    "attributes": [],
+    "samplers": [
+        { "name": "DiffuseSampler" },
+        { "name": "ControllerSampler" }
+    ],
+    "uniforms": [
+        { "name": "InSize",  "type": "float", "count": 2, "values": [ 1.0, 1.0 ] },
+        { "name": "BlurDir", "type": "float", "count": 2, "values": [ 1.0, 1.0 ] }
+    ]
+}

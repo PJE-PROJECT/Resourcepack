@@ -1,0 +1,16 @@
+{
+	"textures": {
+		"0": "block/portal/52",
+		"particle": "block/air"
+	},
+	"elements": [
+		{
+			"from": [0, 16, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 1]},
+			"faces": {
+				"up": {"uv": [0.006, 0, 3.99962, 4], "texture": "#0"}
+			}
+		}
+	]
+}

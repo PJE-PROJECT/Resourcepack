@@ -1,0 +1,7 @@
+{
+	"parent": "block/dark_oak_button",
+	"textures": {
+		"4": "block/portal/switch_rusted",
+		"particle": "block/portal/air"
+	}
+}

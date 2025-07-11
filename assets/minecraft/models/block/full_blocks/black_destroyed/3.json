@@ -1,0 +1,20 @@
+{
+	"textures": {
+		"0": "block/portal/15",
+		"particle": "block/portal/15"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [12.00525, 11.985, 16, 16], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [12.00525, 7.96875, 16, 11.98375], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 11.985, 3.99475, 16], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [3.95313, 8, 7.94788, 3.985], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [12.026, 7.95313, 8.03125, 11.96813], "texture": "#0", "cullface": "up"},
+				"down": {"uv": [0, 11.985, 3.99475, 16], "texture": "#0", "cullface": "down"}
+			}
+		}
+	]
+}

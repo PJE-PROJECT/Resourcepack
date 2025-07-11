@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+		{ "model": "minecraft:block/full_blocks/black_destroyed/5" },
+	{ "model": "minecraft:block/full_blocks/black_destroyed/4" },
+	{ "model": "minecraft:block/full_blocks/black_destroyed/3" },
+	{ "model": "minecraft:block/full_blocks/black_destroyed/2" },
+	{ "model": "minecraft:block/full_blocks/black_destroyed/1" }
+	]
+  }
+}

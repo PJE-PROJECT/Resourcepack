@@ -1,0 +1,23 @@
+{
+    "blend": {
+        "func": "add",
+        "srcrgb": "one",
+        "dstrgb": "zero"
+    },
+    "vertex": "util/save",
+    "fragment": "util/save",
+    "attributes": [ "Position" ],
+    "samplers": [
+        { "name": "DiffuseSampler" },
+        { "name": "SavedSampler" },
+        { "name": "ParticlesSampler" }
+    ],
+    "uniforms": [
+        { "name": "ProjMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "InSize",  "type": "float",     "count": 2,  "values": [ 1.0, 1.0 ] },
+        { "name": "OutSize", "type": "float",     "count": 2,  "values": [ 1.0, 1.0 ] },
+        { "name": "Color",   "type": "float",     "count": 3,  "values": [ 254, 253, 251 ] },
+        { "name": "Offset",  "type": "float",     "count": 1,  "values": [ 1.0 ] },
+        { "name": "PixelX",  "type": "float",     "count": 1,  "values": [ 0.0 ] }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "arm64x64/animation/metal_overgrown/32_out_straight",
+	"textures": {
+		"0": "item/objmc/arm64x64/animation/empty/32_out_straight"
+	}
+}

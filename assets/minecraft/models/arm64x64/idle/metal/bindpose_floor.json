@@ -1,0 +1,6 @@
+{
+	"parent": "arm64x64/idle/metal_overgrown/bindpose",
+	"textures": {
+		"0": "item/objmc/arm64x64/idle/metal/bindpose_floor"
+	}
+}

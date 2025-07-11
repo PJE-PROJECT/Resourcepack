@@ -1,0 +1,6 @@
+{
+	"parent": "arm64x64/idle/empty/intro3_floorcollapse_01_idle",
+	"textures": {
+		"0": "item/objmc/arm64x64/idle/empty/clean/intro3_floorcollapse_01_idle"
+	}
+}

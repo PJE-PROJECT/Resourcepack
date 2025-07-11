@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "block/portal/4",
+		"particle": "block/portal/4"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 32, 2],
+			"faces": {
+				"north": {"uv": [0.04, 0.04, 3.965, 8.03], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0.5, 3.25],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0.5, 3.25],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [180, 59, 180],
+			"translation": [9.75, -2.25, -8],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [180, 59, 180],
+			"translation": [9.75, -2.25, -8],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [-180, 0, -180],
+			"translation": [0, -3.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"translation": [0, 0, 16],
+			"scale": [2, 2, 2]
+		}
+	}
+}

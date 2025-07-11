@@ -1,0 +1,60 @@
+{
+	"texture_size": [16, 128],
+	"textures": {
+		"2": "block/portal/particle/strider_bluebeam/strider_bluebeam1"
+	},
+	"elements": [
+		{
+			"from": [-0.8, 1.66768, 4.34295],
+			"to": [16.8, 2.86768, 4.34295],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1.22768, 2.86295]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"from": [-0.8, 1.22768, 3.62295],
+			"to": [16.8, 1.22768, 4.82295],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 2.62768, 3.66295]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"from": [-0.8, 1.94791, 5.29255],
+			"to": [16.8, 3.14791, 5.29255],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 2.06791, 6.49255]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [16, 0, 0, 16], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"from": [-0.8, 2.04757, 4.60951],
+			"to": [16.8, 3.24757, 4.60951],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 2.08757, 4.44951]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [5.75, 8.25, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 2.09793, 4.36899],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

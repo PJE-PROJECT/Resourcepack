@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/acacia_log_x"
+    },
+    "axis=y": {
+      "model": "minecraft:block/acacia_log"
+    },
+    "axis=z": {
+      "model": "minecraft:block/acacia_log_z"
+    }
+  }
+}

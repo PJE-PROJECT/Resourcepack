@@ -1,0 +1,6 @@
+{
+	"parent": "overlay/v/128x256/template",
+	"textures": {
+		"0": "block/overlay/this_way_up"
+	}
+}

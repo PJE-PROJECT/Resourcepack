@@ -1,0 +1,41 @@
+{
+	"format_version": "1.21.6",
+	"textures": {
+		"0": "block/watersplash/splashwake4",
+		"1": "block/watersplash/splash01",
+		"particle": "block/watersplash/splashwake4"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"faces": {
+				"north": {"uv": [5.375, 10.66667, 8.04167, 16], "texture": "#1"},
+				"south": {"uv": [5.375, 10.66667, 8.04167, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, 0, 0],
+			"to": [8, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [5.375, 10.66667, 8.04167, 16], "texture": "#1"},
+				"west": {"uv": [5.375, 10.66667, 8.04167, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-8.63143, 0, -8.63143],
+			"to": [24.63143, 0, 24.63143],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8.63143, 0, -8.63143]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 8, 0],
+			"scale": [3, 3, 3]
+		}
+	}
+}

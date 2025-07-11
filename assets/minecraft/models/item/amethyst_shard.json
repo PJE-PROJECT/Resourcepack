@@ -1,0 +1,17 @@
+{
+	"texture_size": [16, 32],
+	"textures": {
+		"0": "block/portal/door",
+		"particle": "block/portal/door"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 32],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}

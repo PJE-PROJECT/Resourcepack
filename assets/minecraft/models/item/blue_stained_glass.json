@@ -1,0 +1,62 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "block/blue_stained_glass"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "portal/portal_open"},
+		{ "predicate": { "custom_model_data": 2 }, "model": "portal/portal_closed"},
+
+
+		{ "predicate": { "custom_model_data": 3 }, "model": "glasswindow/broken/glasswindow_broken_a"},
+		{ "predicate": { "custom_model_data": 4 }, "model": "glasswindow/broken/glasswindow_broken_b"},
+		{ "predicate": { "custom_model_data": 5 }, "model": "glasswindow/broken/glasswindow_broken_c"},
+		{ "predicate": { "custom_model_data": 6 }, "model": "glasswindow/broken/glasswindow_broken_d"},
+		{ "predicate": { "custom_model_data": 7 }, "model": "glasswindow/window/a"},
+		{ "predicate": { "custom_model_data": 8 }, "model": "glasswindow/window/b"},
+		{ "predicate": { "custom_model_data": 9 }, "model": "glasswindow/window/c"},
+		{ "predicate": { "custom_model_data": 10 }, "model": "glasswindow/window/d"},
+		{ "predicate": { "custom_model_data": 11 }, "model": "glasswindow/window/e"},
+		{ "predicate": { "custom_model_data": 12 }, "model": "glasswindow/window/f"},
+		{ "predicate": { "custom_model_data": 13 }, "model": "glasswindow/window/glass"},
+		{ "predicate": { "custom_model_data": 14 }, "model": "glasswindow/window/glass_dirty_a"},
+		{ "predicate": { "custom_model_data": 15 }, "model": "glasswindow/window/glass_dirty_b"},
+		{ "predicate": { "custom_model_data": 16 }, "model": "glasswindow/window/glass_dirty_c"},
+		{ "predicate": { "custom_model_data": 17 }, "model": "glasswindow/window/glass_broken_a"},
+		{ "predicate": { "custom_model_data": 18 }, "model": "glasswindow/window/glass_broken_b"},
+		{ "predicate": { "custom_model_data": 19 }, "model": "glasswindow/window/glass_broken_c"},
+
+		
+		{ "predicate": { "custom_model_data": 20 }, "model": "glasswindow/glasswindow"},
+		{ "predicate": { "custom_model_data": 21 }, "model": "glasswindow/glasswindow_corner"},
+		{ "predicate": { "custom_model_data": 22 }, "model": "glasswindow/glasswindow_half"},
+		{ "predicate": { "custom_model_data": 23 }, "model": "glasswindow/glasswindow_mid"},
+		{ "predicate": { "custom_model_data": 24 }, "model": "glasswindow/glasswindow_mid_half"},
+		{ "predicate": { "custom_model_data": 25 }, "model": "glasswindow/glasswindow_mid_half_north"},
+		{ "predicate": { "custom_model_data": 26 }, "model": "glasswindow/dirty/glasswindow"},
+		{ "predicate": { "custom_model_data": 27 }, "model": "glasswindow/dirty/glasswindow_corner"},
+		{ "predicate": { "custom_model_data": 28 }, "model": "glasswindow/dirty/glasswindow_half"},
+		{ "predicate": { "custom_model_data": 29 }, "model": "glasswindow/dirty/glasswindow_half2"},
+		{ "predicate": { "custom_model_data": 30 }, "model": "glasswindow/dirty/glasswindow_mid_half_north"},
+
+
+
+		{ "predicate": { "custom_model_data": 97 }, "model": "item/portal_items/material_emancipation_grill/meg_part1"},
+		{ "predicate": { "custom_model_data": 98 }, "model": "item/portal_items/material_emancipation_grill/meg_part2"},
+		{ "predicate": { "custom_model_data": 99 }, "model": "item/portal_items/material_emancipation_grill/meg_part3"},
+		{ "predicate": { "custom_model_data": 100 }, "model": "item/portal_items/material_emancipation_grill/meg_part4"},
+		{ "predicate": { "custom_model_data": 101 }, "model": "item/portal_items/hard_light_bridge/bridge/x1"},
+		{ "predicate": { "custom_model_data": 102 }, "model": "item/portal_items/hard_light_bridge/bridge/x2"},
+		{ "predicate": { "custom_model_data": 103 }, "model": "item/portal_items/hard_light_bridge/bridge/y1"},
+		{ "predicate": { "custom_model_data": 104 }, "model": "item/portal_items/hard_light_bridge/bridge/y2"},
+		{ "predicate": { "custom_model_data": 105 }, "model": "item/portal_items/hard_light_bridge/bridge/z1"},
+		{ "predicate": { "custom_model_data": 106 }, "model": "item/portal_items/hard_light_bridge/bridge/z2"},
+		{ "predicate": { "custom_model_data": 107 }, "model": "excursion_funnel/beam3"},
+		{ "predicate": { "custom_model_data": 108 }, "model": "excursion_funnel/beam1"},
+		{ "predicate": { "custom_model_data": 109 }, "model": "excursion_funnel/beam3_orange"},
+		{ "predicate": { "custom_model_data": 110 }, "model": "excursion_funnel/beam1_orange"}
+
+
+
+	]
+}

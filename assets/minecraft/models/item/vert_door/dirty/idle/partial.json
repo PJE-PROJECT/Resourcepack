@@ -1,0 +1,6 @@
+{
+	"parent": "item/vert_door/idle/partial",
+	"textures": {
+		"0": "item/objmc/vert_door/dirty/partial_idle"
+	}
+}

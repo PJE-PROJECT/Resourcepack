@@ -1,0 +1,6 @@
+{
+	"parent": "props_office/whiteboard_coop_msg_01",
+	"textures": {
+		"0": "block/portal/office/whiteboard_coop_msg_05"
+	}
+}

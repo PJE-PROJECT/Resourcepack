@@ -1,0 +1,6 @@
+{
+	"parent": "overlay/v/128x512/template",
+	"textures": {
+		"0": "block/overlay/decalstain015a"
+	}
+}

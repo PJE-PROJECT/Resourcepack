@@ -1,0 +1,6 @@
+{
+	"parent": "mainmenu/main1",
+	"textures": {
+		"0": "item/mainmenu/pause4"
+	}
+}

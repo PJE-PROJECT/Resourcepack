@@ -1,0 +1,6 @@
+{
+	"parent": "particle/paint_bomb/1",
+	"textures": {
+		"0": "block/portal/particle/paint_bomb/water/11"
+	}
+}

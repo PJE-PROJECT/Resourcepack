@@ -1,0 +1,15 @@
+{
+	"textures": {
+		"0": "block/portal/particle/paint_bomb/water/1"
+	},
+	"elements": [
+		{
+			"from": [-7, -7, 8],
+			"to": [23, 23, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 0}
+			}
+		}
+	]
+}

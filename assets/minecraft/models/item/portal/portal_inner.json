@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"2": "item/portal/portal_inner",
+		"particle": "item/portal/portal_inner"
+	},
+	"elements": [
+		{
+			"from": [-8.9, -3, 8],
+			"to": [23.1, 29, 8],
+			"shade": false,
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2", "tintindex": 1}
+			}
+		},
+		{
+			"from": [8, 8, 8],
+			"to": [8.00001, 8.00001, 8.00001],
+			"shade": false,
+			"faces": {
+				"south": {"uv": [0.5, 0.5, 0.5, 0.5], "texture": "#portal_data", "tintindex": 1}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [1, 120, 0],
+			"translation": [2, 1, 0],
+			"scale": [0.3, 0.3, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [1, 120, 0],
+			"translation": [2, 1, 0],
+			"scale": [0.3, 0.3, 0.5]
+		},
+		"gui": {
+			"rotation": [22, -161, 0],
+			"translation": [0, -3.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, -38, 0],
+			"scale": [1.6, 1.6, 1]
+		},
+		"fixed": {
+			"translation": [0, -4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

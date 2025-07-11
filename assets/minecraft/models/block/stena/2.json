@@ -1,0 +1,19 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/portal/1",
+		"1": "block/portal/black",
+		"particle": "block/portal/1"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [32, 32, 0],
+			"faces": {
+				"north": {"uv": [7.97, 0, 16, 8.01], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	]
+}

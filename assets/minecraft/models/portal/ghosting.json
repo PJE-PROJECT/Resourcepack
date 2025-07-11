@@ -1,0 +1,46 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"1": "item/portal/ghosting",
+		"particle": "item/portal/ghosting"
+	},
+	"elements": [
+		{
+			"from": [-10.9, -5, 8],
+			"to": [25.1, 31, 8],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [4, 90, 0],
+			"translation": [-2.25, 0, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [1, 120, 0],
+			"translation": [2, 1, 0],
+			"scale": [0.3, 0.3, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [1, 120, 0],
+			"translation": [2, 1, 0],
+			"scale": [0.3, 0.3, 0.5]
+		},
+		"gui": {
+			"rotation": [22, -161, 0],
+			"translation": [0, -3.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, -37.25, 0],
+			"scale": [1.6, 1.6, 1]
+		},
+		"fixed": {
+			"translation": [0, -4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

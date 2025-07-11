@@ -1,0 +1,15 @@
+{
+	"textures": {
+		"0": "block/portal/40",
+		"particle": "block/portal/40"
+	},
+	"elements": [
+		{
+			"from": [0, 12, 0],
+			"to": [16, 13, 16],
+			"faces": {
+				"up": {"uv": [8.04688, 4.01565, 12.01563, 8.01565], "texture": "#0"}
+			}
+		}
+	]
+}

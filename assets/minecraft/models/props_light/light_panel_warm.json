@@ -1,0 +1,6 @@
+{
+	"parent": "props_light/light_panel_neutral",
+	"textures": {
+		"1": "block/portal/light_panel_glass_warm1"
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"textures": {
+		"texture2": "item/portal_items/portal_material_emancipation_grill/fizzler_rusted"
+	},
+	"elements": [
+		{
+			"name": "Cube1",
+			"from": [5, 0.25, 0],
+			"to": [6.5, 31.75, 0.5],
+			"faces": {
+				"south": {"uv": [8.21875, 0, 8.65625, 16], "texture": "#texture2"},
+				"west": {"uv": [8.6875, 0, 8.8125, 16], "texture": "#texture2"},
+				"up": {"uv": [7.625, 4.375, 7.875, 4.875], "rotation": 90, "texture": "#texture2"},
+				"down": {"uv": [0, 0, 2.64662, 16], "texture": "#texture2"}
+			}
+		},
+		{
+			"name": "Cube1",
+			"from": [6.5, 0.25, 0],
+			"to": [8, 31.75, 0.5],
+			"faces": {
+				"south": {"uv": [8.1875, 0, 7.34375, 16], "texture": "#texture2"},
+				"up": {"uv": [7.59375, 3.125, 7.84375, 3.625], "rotation": 90, "texture": "#texture2"},
+				"down": {"uv": [7.59375, 3.28125, 7.78125, 3.84375], "texture": "#texture2"}
+			}
+		},
+		{
+			"name": "Cube2",
+			"from": [9.5, 0.25, 0],
+			"to": [11, 31.75, 0.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"east": {"uv": [8.8125, 0, 8.6875, 16], "texture": "#texture2"},
+				"south": {"uv": [8.65625, 0, 8.21875, 16], "texture": "#texture2"},
+				"up": {"uv": [7.625, 4.875, 7.875, 4.375], "rotation": 90, "texture": "#texture2"},
+				"down": {"uv": [2.64662, 0, 0, 16], "texture": "#texture2"}
+			}
+		},
+		{
+			"name": "Cube2",
+			"from": [8, 0.25, 0],
+			"to": [9.5, 31.75, 0.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"south": {"uv": [7.34375, 0, 8.1875, 16], "texture": "#texture2"},
+				"up": {"uv": [7.59375, 3.625, 7.84375, 3.125], "rotation": 90, "texture": "#texture2"},
+				"down": {"uv": [7.78125, 3.28125, 7.59375, 3.84375], "texture": "#texture2"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [-52, 28, 20],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, -11, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

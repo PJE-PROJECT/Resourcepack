@@ -1,0 +1,8 @@
+{
+	"parent": "item/portal/portal_inner",
+	"textures": {
+		"2": "item/portal/portal_inner1",
+		"portal_data": "item/portal/portal_data1",
+		"particle": "item/portal/portal_inner1"
+	}
+}

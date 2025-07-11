@@ -1,0 +1,6 @@
+{
+	"parent": "arm64x64/idle/empty/90deg_64_idle",
+	"textures": {
+		"0": "item/objmc/arm64x64/idle/empty/clean/90deg_64_idle"
+	}
+}

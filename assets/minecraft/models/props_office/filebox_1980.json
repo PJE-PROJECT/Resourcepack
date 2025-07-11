@@ -1,0 +1,39 @@
+{
+	"textures": {
+		"0": "block/portal/office/filebox_1980",
+		"particle": "block/portal/office/filebox_1980"
+	},
+	"elements": [
+		{
+			"from": [5.9008, 0, 6.1632],
+			"to": [12.0992, 3.1488, 9.8368],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.9008, 0, 5.9008]},
+			"faces": {
+				"north": {"uv": [0, 4.25, 2.6875, 7.5], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 0.3125, 2.8125, 3.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 4.25, 2.6875, 7.5], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 0.3125, 2.8125, 3.5], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [9.25, 0.75, 14.8125, 5.3125], "texture": "#0"}
+			}
+		},
+		{
+			"from": [12.1056, 0, 6.1632],
+			"to": [5.9072, 3.1488, 9.8368],
+			"rotation": {"angle": 0, "axis": "y", "origin": [32.8992, 0, 5.9008]},
+			"faces": {
+				"north": {"uv": [5.5625, 1.6875, 7.875, 4.3125], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [5.5625, 4.4375, 7.875, 7.25], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [5.5625, 1.6875, 7.875, 4.3125], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [5.5625, 4.4375, 7.875, 7.25], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [2.9375, 4.8125, 5.375, 8.25], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
+		}
+	}
+}

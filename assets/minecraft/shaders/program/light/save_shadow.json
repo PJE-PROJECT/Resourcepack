@@ -1,0 +1,17 @@
+{
+    "blend": {
+        "func": "add",
+        "srcrgb": "one",
+        "dstrgb": "zero"
+    },
+    "vertex": "light/save_shadow",
+    "fragment": "light/save_shadow",
+    "attributes": [],
+    "samplers": [
+        { "name": "DiffuseSampler" },
+        { "name": "DepthSampler" },
+        { "name": "SavedSampler" },
+        { "name": "SavedDepthSampler" }
+    ],
+    "uniforms": []
+}

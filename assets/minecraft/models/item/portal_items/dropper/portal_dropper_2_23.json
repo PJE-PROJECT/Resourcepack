@@ -1,0 +1,8 @@
+{
+	"__comment": "Model By Lokki",
+	"parent": "item/portal_items/dropper/portal_dropper_2_0",
+	"textures": {
+		"1": "item/portal_items/portal_dropper/portal_2_dropper1",
+		"2": "item/portal_items/portal_dropper/dropper_2_23"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/portal_items/camera/portalcamera_full_2",
+	"textures": {
+		"1": "item/portal_items/portal_camera/camera_fizzled"
+	}
+}

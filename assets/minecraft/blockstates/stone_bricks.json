@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+		{ "model":"minecraft:block/pol_destroyed/white/1"},
+	{ "model":"minecraft:block/pol_destroyed/white/2"},
+	{ "model":"minecraft:block/pol_destroyed/white/3"},
+	{ "model":"minecraft:block/pol_destroyed/white/4"},
+	{ "model":"minecraft:block/pol_destroyed/white/5"},
+	{ "model":"minecraft:block/pol_destroyed/white/6"},
+	{ "model":"minecraft:block/pol_destroyed/white/7"},
+	{ "model":"minecraft:block/pol_destroyed/white/8"},
+	{ "model":"minecraft:block/pol_destroyed/white/9"},
+	{ "model":"minecraft:block/pol_destroyed/white/10"},
+	{ "model":"minecraft:block/pol_destroyed/white/11"},
+	{ "model":"minecraft:block/pol_destroyed/white/12"},
+	{ "model":"minecraft:block/pol_destroyed/white/13"},
+	{ "model":"minecraft:block/pol_destroyed/white/14"},
+	{ "model":"minecraft:block/pol_destroyed/white/15"},
+	{ "model":"minecraft:block/pol_destroyed/white/16"}
+	]
+  }
+}

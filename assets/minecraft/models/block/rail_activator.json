@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [1400, 1000],
+	"textures": {
+		"1": "block/portal/wire",
+		"particle": "block/portal/concrete_light_blue"
+	},
+	"elements": [
+		{
+			"from": [5.5, -0.9, 5.7],
+			"to": [10.5, 0.1, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 7.1, 17.5]},
+			"faces": {
+				"north": {"uv": [13.44864, 15.25123, 2.71598, 1.12], "texture": "#1"},
+				"east": {"uv": [13.44864, 15.25123, 2.71598, 1.12], "texture": "#1"},
+				"south": {"uv": [13.44864, 15.25123, 2.71598, 1.12], "texture": "#1"},
+				"west": {"uv": [13.44864, 15.25123, 2.71598, 1.12], "texture": "#1"},
+				"up": {"uv": [13.44864, 15.25123, 2.71598, 1.12], "texture": "#1"},
+				"down": {"uv": [10.99514, 15.3932, 10.99514, 15.3932], "texture": "#1"}
+			}
+		}
+	]
+}

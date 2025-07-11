@@ -1,0 +1,6 @@
+{
+	"parent": "overlay/s/512x512/template",
+	"textures": {
+		"0": "block/overlay/office_stain_02"
+	}
+}

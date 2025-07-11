@@ -1,0 +1,30 @@
+{
+	"textures": {
+		"0": "block/portal/46",
+		"particle": "block/portal/46"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 17, 8]},
+			"faces": {
+				"north": {"uv": [9.56325, 1.46875, 9.46775, 1.625], "texture": "#0"},
+				"east": {"uv": [9.56325, 1.46875, 9.46775, 1.625], "texture": "#0"},
+				"south": {"uv": [9.56325, 1.46875, 9.46775, 1.625], "texture": "#0"},
+				"west": {"uv": [9.50075, 1.71875, 9.53025, 1.7835], "texture": "#0"},
+				"down": {"uv": [8, 0, 12, 4.01563], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [-90, 0, 0]
+		},
+		"fixed": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, 16],
+			"scale": [2, 2, 2]
+		}
+	}
+}

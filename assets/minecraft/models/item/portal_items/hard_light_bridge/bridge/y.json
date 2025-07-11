@@ -1,0 +1,50 @@
+{
+	"textures": {
+		"0": "block/portal/lightbridge",
+		"1": "item/effect/white",
+		"particle": "block/portal/lightbridge"
+	},
+	"elements": [
+		{
+			"from": [0, 18.8, 0],
+			"to": [16, 19.2, 16],
+			"shade": false,
+			"faces": {
+				"east": {"uv": [0, 0, 0.03125, 0.4375], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.03125, 0.4375], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [15.65, 18.7, 0],
+			"to": [16.05, 19.21, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"from": [-0.05, 18.7, 0],
+			"to": [0.35, 19.21, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"west": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, 16],
+			"scale": [2, 2, 2]
+		}
+	}
+}

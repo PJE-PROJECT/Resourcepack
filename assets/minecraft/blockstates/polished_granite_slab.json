@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "": [
+	{ "model": "minecraft:block/ceiling/framework/overgrown/white/1" },
+	{ "model": "minecraft:block/ceiling/framework/overgrown/white/2" },
+	{ "model": "minecraft:block/ceiling/framework/overgrown/white/3" },
+	{ "model": "minecraft:block/ceiling/framework/overgrown/white/5" },
+	{ "model": "minecraft:block/ceiling/framework/overgrown/white/6" },
+	{ "model": "minecraft:block/ceiling/framework/overgrown/white/8" },
+	{ "model": "minecraft:block/ceiling/framework/overgrown/white/9" },
+	{ "model": "minecraft:block/ceiling/framework/overgrown/white/10" },
+	{ "model": "minecraft:block/ceiling/framework/overgrown/white/11" },
+	{ "model": "minecraft:block/ceiling/framework/overgrown/white/12" },
+	{ "model": "minecraft:block/ceiling/framework/overgrown/white/13" },
+	{ "model": "minecraft:block/ceiling/framework/overgrown/white/14" }
+		
+	]
+  }
+}

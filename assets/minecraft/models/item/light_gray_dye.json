@@ -1,0 +1,40 @@
+{
+	"textures": {
+		"0": "block/indicator_lights/broken",
+		"1": "block/indicator_lights/broken_corner",
+		"particle": "block/indicator_lights/broken"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 6.5],
+			"to": [4, 0, 9.5],
+			"faces": {
+				"up": {"uv": [0.875, 3.5, 3.125, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 0, 0.5],
+			"to": [9.5, 0, 3.5],
+			"faces": {
+				"up": {"uv": [0.875, 3.5, 3.125, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 0, 6.5],
+			"to": [9.5, 0, 9.5],
+			"faces": {
+				"up": {"uv": [12.5, 12.5, 3.5, 3.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -8.1],
+			"scale": [2, 1, 2]
+		}
+	}
+}

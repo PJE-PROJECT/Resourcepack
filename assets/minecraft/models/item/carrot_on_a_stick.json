@@ -1,0 +1,31 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "item/portal_items/handheld_items/exit"},
+		{ "predicate": { "custom_model_data": 2 }, "model": "item/portal_items/handheld_items/wrench"},
+		{ "predicate": { "custom_model_data": 3 }, "model": "block/granite"},
+		{ "predicate": { "custom_model_data": 4 }, "model": "item/portal_items/handheld_items/lightnings/left/1"},
+		{ "predicate": { "custom_model_data": 5 }, "model": "item/portal_items/handheld_items/lightnings/left/2"},
+		{ "predicate": { "custom_model_data": 6 }, "model": "item/portal_items/handheld_items/lightnings/left/3"},
+		{ "predicate": { "custom_model_data": 7 }, "model": "item/portal_items/handheld_items/lightnings/left/4"},
+		{ "predicate": { "custom_model_data": 8 }, "model": "item/portal_items/handheld_items/lightnings/left/5"},
+		{ "predicate": { "custom_model_data": 9 }, "model": "item/portal_items/handheld_items/lightnings/left/6"},
+		{ "predicate": { "custom_model_data": 10 }, "model": "item/portal_items/handheld_items/lightnings/left/7"},
+		{ "predicate": { "custom_model_data": 11 }, "model": "item/portal_items/handheld_items/lightnings/left/8"},
+
+		{ "predicate": { "custom_model_data": 13 }, "model": "item/portal_items/handheld_items/lightnings/right/1"},
+		{ "predicate": { "custom_model_data": 14 }, "model": "item/portal_items/handheld_items/lightnings/right/2"},
+		{ "predicate": { "custom_model_data": 15 }, "model": "item/portal_items/handheld_items/lightnings/right/3"},
+		{ "predicate": { "custom_model_data": 16 }, "model": "item/portal_items/handheld_items/lightnings/right/4"},
+		{ "predicate": { "custom_model_data": 17 }, "model": "item/portal_items/handheld_items/lightnings/right/5"},
+		{ "predicate": { "custom_model_data": 18 }, "model": "item/portal_items/handheld_items/lightnings/right/6"},
+		{ "predicate": { "custom_model_data": 19 }, "model": "item/portal_items/handheld_items/lightnings/right/7"},
+		{ "predicate": { "custom_model_data": 20 }, "model": "item/portal_items/handheld_items/lightnings/right/8"},
+
+		{ "predicate": { "custom_model_data": 21 }, "model": "item/gun"},
+		{ "predicate": { "custom_model_data": 22 }, "model": "item/light_tool"}
+	]
+}

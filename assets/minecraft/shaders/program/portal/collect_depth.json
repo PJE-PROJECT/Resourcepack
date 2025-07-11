@@ -1,0 +1,20 @@
+{
+    "blend": {
+        "func": "add",
+        "srcrgb": "one",
+        "dstrgb": "zero"
+    },
+    "vertex": "util/screenquad",
+    "fragment": "portal/collect_depth",
+    "attributes": [],
+    "samplers": [
+        { "name": "DiffuseSampler" },
+        { "name": "DiffuseDepthSampler" },
+        { "name": "TranslucentDepthSampler" },
+        { "name": "ItemEntityDepthSampler" },
+        { "name": "ParticlesDepthSampler" },
+        { "name": "WeatherDepthSampler" },
+        { "name": "CloudsDepthSampler" }
+    ],
+    "uniforms": []
+}

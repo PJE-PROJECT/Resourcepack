@@ -1,0 +1,31 @@
+{
+	"texture_size": [1000, 1000],
+	"textures": {
+		"0": "block/nether_gold_ore",
+		"particle": "block/nether_gold_ore"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0.26563, 0.26563, 15.98571, 15.98571], "texture": "#0"},
+				"east": {"uv": [0.26563, 0.26563, 15.98571, 15.98571], "texture": "#0"},
+				"south": {"uv": [0.26563, 0.26563, 15.98571, 15.98571], "texture": "#0"},
+				"west": {"uv": [0.26563, 0.26563, 15.98571, 15.98571], "texture": "#0"},
+				"up": {"uv": [0.26563, 0.26563, 15.98571, 15.98571], "texture": "#0"},
+				"down": {"uv": [0.26563, 0.26563, 15.98571, 15.98571], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16.1],
+			"scale": [2, 2, 2]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "overlay/h/256x128/template",
+	"textures": {
+		"0": "block/overlay/watch_your_step"
+	}
+}
