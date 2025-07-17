@@ -156,6 +156,11 @@
 "sp_a4_intro_b3":{"sounds":["music/sp_a4_intro_b3"]},
 
 "fs_fm_land_metal_grate_lg_01":{"sounds":["footsteps/fs_fm_land_metal_grate_lg_01"]},
-"amb_destroyed_elevator_lp_02":{"sounds":["ambient/amb_destroyed_elevator_lp_02"]}
+"amb_destroyed_elevator_lp_02":{"sounds":["ambient/amb_destroyed_elevator_lp_02"]},
+
+"sp_intro_02_lb1-1":{"sounds":["music/sp_intro_02_lb1-1"]},
+"sp_intro_02_lx1-1":{"sounds":["music/sp_intro_02_lx1-1"]},
+"sp_intro_02_lx2-1":{"sounds":["music/sp_intro_02_lx2-1"]},
+"sp_intro_02_lx3-1":{"sounds":["music/sp_intro_02_lx3-1"]}
 
 }
