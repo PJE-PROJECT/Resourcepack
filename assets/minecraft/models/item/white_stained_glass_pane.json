@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/netherite_hoe"
+		"layer0": "item/white_stained_glass_pane"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "laser/laser_receptacle_glass"},
