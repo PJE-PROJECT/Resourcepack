@@ -55,7 +55,7 @@ void main() {
         } else {
             fragColor = exponentialFog(diffuseColor, v_FragDistance, u_FogColor, u_FogStart, u_FogEnd);
         }
-
+        fragColor *= 1.5;
         fragColor.rgb = TMO(pow(fragColor.rgb, vec3(2.2)));
         fragColor.rgb = pow(fragColor.rgb, vec3(1.0 / 2.2));
     }

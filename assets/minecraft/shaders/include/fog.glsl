@@ -22,7 +22,7 @@ vec4 linear_fog(vec4 inColor, float vertexDistance, float fogStart, float fogEnd
 }
 
 vec4 exponentialFog(vec4 fragColor, float fragDistance, vec4 fogColor, float fogStart, float fogEnd) {
-    const float density = 0.013;
+    const float density = 0.010;
 
     if (fogStart > 1000.0) {
         return fragColor;

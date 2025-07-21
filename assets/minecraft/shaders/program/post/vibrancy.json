@@ -8,7 +8,9 @@
     "fragment": "post/vibrancy",
     "attributes": [],
     "samplers": [
-        { "name": "DiffuseSampler" }
+        { "name": "DiffuseSampler" },
+        { "name": "Lut1Sampler" },
+        { "name": "Lut2Sampler" }
     ],
     "uniforms": []
 }

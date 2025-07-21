@@ -416,7 +416,11 @@
         {
             "name": "post/vibrancy",
             "intarget": "minecraft:main",
-            "outtarget": "swap"
+            "outtarget": "swap",
+            "auxtargets": [
+                { "name": "Lut1Sampler", "id": "lut", "width": 4096, "height": 4096, "bilinear": true },
+                { "name": "Lut2Sampler", "id": "lut2", "width": 1024, "height": 32, "bilinear": true }
+            ]
         },
         {
             "name": "blit",

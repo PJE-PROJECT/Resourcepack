@@ -54,7 +54,8 @@
 		{ "predicate": { "custom_model_data": 107 }, "model": "excursion_funnel/beam3"},
 		{ "predicate": { "custom_model_data": 108 }, "model": "excursion_funnel/beam1"},
 		{ "predicate": { "custom_model_data": 109 }, "model": "excursion_funnel/beam3_orange"},
-		{ "predicate": { "custom_model_data": 110 }, "model": "excursion_funnel/beam1_orange"}
+		{ "predicate": { "custom_model_data": 110 }, "model": "excursion_funnel/beam1_orange"},
+		{ "predicate": { "custom_model_data": 186 }, "model": "item/portal_items/portal_laser_field/laser_full"}
 
 
 

@@ -26,7 +26,7 @@ vec4 _linearFog(vec4 fragColor, float fragDistance, vec4 fogColor, float fogStar
 
 vec4 exponentialFog(vec4 fragColor, float fragDistance, vec4 fogColor, float fogStart, float fogEnd) {
 #ifdef USE_FOG
-    const float density = 0.013;
+    const float density = 0.010;
 
     if (abs(fogStart + 8.0) < 0.5) {
         return _linearFog(fragColor, fragDistance, fogColor, fogStart, fogEnd);
