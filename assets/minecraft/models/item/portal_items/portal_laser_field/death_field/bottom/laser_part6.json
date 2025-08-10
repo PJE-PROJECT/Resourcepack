@@ -1,0 +1,30 @@
+{
+	"format_version": "1.21.6",
+	"texture_size": [1280, 160],
+	"textures": {
+		"0": "item/portal_items/portal_laser_field/death_field",
+		"particle": "item/portal_items/portal_laser_field/death_field"
+	},
+	"elements": [
+		{
+			"name": "PlaneZ3",
+			"from": [0, 0, 8],
+			"to": [16, 16, 8.001],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9, 8.0005]},
+			"faces": {
+				"north": {"uv": [5, 8.1, 6, 15.8], "texture": "#0"},
+				"south": {"uv": [6, 8.1, 5, 15.8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-180, -180, -180],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}

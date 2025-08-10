@@ -2,7 +2,8 @@
 
 from PIL import Image
 print('start')
-name = input('Введите название файла (для test.png введите test): ')
+name = input('File name (for test.png enter test): ')
+
 imported_image = Image.open(name+'.png')
 w,h = imported_image.size
 print(w,h)
@@ -15,6 +16,7 @@ for x in range(w):
         if pixel[3] == 252 or pixel[3] == 253 or pixel[3] == 254:
             #print(' bad',x,y,imported_image_loaded[x, y])
             output_image.putpixel( (x,y), (pixel[0],pixel[1],pixel[2],255))
+            print('replaced badpixel at ',x,y)
         else:
             #print('good',x,y,imported_image_loaded[x, y])
             output_image.putpixel( (x,y), pixel)

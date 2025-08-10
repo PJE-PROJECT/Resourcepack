@@ -372,8 +372,11 @@
 		{ "predicate": { "custom_model_data": 343 }, "model": "props_bts/lab_pod_b"},
 
 		{ "predicate": { "custom_model_data": 344 }, "model": "catwalk/railing/straight"},
-		{ "predicate": { "custom_model_data": 345 }, "model": "catwalk/railing/exit_a"}
+		{ "predicate": { "custom_model_data": 345 }, "model": "catwalk/railing/exit_a"},
 
+
+		{ "predicate": { "custom_model_data": 346 }, "model": "props_bts/huge_fan"},
+		{ "predicate": { "custom_model_data": 347 }, "model": "props_bts/huge_fan_rim"}
 		
 
 		

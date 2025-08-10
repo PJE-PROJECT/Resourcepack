@@ -55,8 +55,45 @@
 		{ "predicate": { "custom_model_data": 108 }, "model": "excursion_funnel/beam1"},
 		{ "predicate": { "custom_model_data": 109 }, "model": "excursion_funnel/beam3_orange"},
 		{ "predicate": { "custom_model_data": 110 }, "model": "excursion_funnel/beam1_orange"},
-		{ "predicate": { "custom_model_data": 186 }, "model": "item/portal_items/portal_laser_field/laser_full"}
+		{ "predicate": { "custom_model_data": 169 }, "model": "props_bts/vactube_128_straight"},
+		{ "predicate": { "custom_model_data": 170 }, "model": "props_bts/vactube_64_corner"},
+		{ "predicate": { "custom_model_data": 171 }, "model": "props_bts/vactube_90deg_04"},
+		{ "predicate": { "custom_model_data": 186 }, "model": "item/portal_items/portal_laser_field/laser_full"},
 
+
+		{ "predicate": { "custom_model_data": 1001 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part1"},
+		{ "predicate": { "custom_model_data": 1002 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part2"},
+		{ "predicate": { "custom_model_data": 1003 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part3"},
+		{ "predicate": { "custom_model_data": 1004 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part4"},
+		{ "predicate": { "custom_model_data": 1005 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part5"},
+		{ "predicate": { "custom_model_data": 1006 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part6"},
+		{ "predicate": { "custom_model_data": 1007 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part7"},
+		{ "predicate": { "custom_model_data": 1008 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part8"},
+		{ "predicate": { "custom_model_data": 1009 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part9"},
+		{ "predicate": { "custom_model_data": 1010 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part10"},
+		{ "predicate": { "custom_model_data": 1011 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part11"},
+		{ "predicate": { "custom_model_data": 1012 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part12"},
+		{ "predicate": { "custom_model_data": 1013 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part13"},
+		{ "predicate": { "custom_model_data": 1014 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part14"},
+		{ "predicate": { "custom_model_data": 1015 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part15"},
+		{ "predicate": { "custom_model_data": 1016 }, "model": "item/portal_items/portal_laser_field/death_field/laser_part16"},
+
+		{ "predicate": { "custom_model_data": 1017 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part1"},
+		{ "predicate": { "custom_model_data": 1018 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part2"},
+		{ "predicate": { "custom_model_data": 1019 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part3"},
+		{ "predicate": { "custom_model_data": 1020 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part4"},
+		{ "predicate": { "custom_model_data": 1021 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part5"},
+		{ "predicate": { "custom_model_data": 1022 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part6"},
+		{ "predicate": { "custom_model_data": 1023 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part7"},
+		{ "predicate": { "custom_model_data": 1024 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part8"},
+		{ "predicate": { "custom_model_data": 1025 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part9"},
+		{ "predicate": { "custom_model_data": 1026 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part10"},
+		{ "predicate": { "custom_model_data": 1027 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part11"},
+		{ "predicate": { "custom_model_data": 1028 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part12"},
+		{ "predicate": { "custom_model_data": 1029 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part13"},
+		{ "predicate": { "custom_model_data": 1030 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part14"},
+		{ "predicate": { "custom_model_data": 1031 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part15"},
+		{ "predicate": { "custom_model_data": 1032 }, "model": "item/portal_items/portal_laser_field/death_field/bottom/laser_part16"}
 
 
 	]
