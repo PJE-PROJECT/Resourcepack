@@ -161,6 +161,16 @@
 "sp_intro_02_lb1-1":{"sounds":["music/sp_intro_02_lb1-1"]},
 "sp_intro_02_lx1-1":{"sounds":["music/sp_intro_02_lx1-1"]},
 "sp_intro_02_lx2-1":{"sounds":["music/sp_intro_02_lx2-1"]},
-"sp_intro_02_lx3-1":{"sounds":["music/sp_intro_02_lx3-1"]}
+"sp_intro_02_lx3-1":{"sounds":["music/sp_intro_02_lx3-1"]},
+
+
+"sp_a3_faith_plate":{"sounds":["music/sp_a3_faith_plate"]},
+"sp_a3_concepts":{"sounds":["music/sp_a3_concepts"]},
+"sp_a3_transition":{"sounds":["music/sp_a3_transition"]},
+"sp_a3_paint_fling":{"sounds":["music/sp_a3_paint_fling"]},
+"doublevision":{"sounds":["music/doublevision"]}
+
+
+
 
 }
