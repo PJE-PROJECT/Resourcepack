@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.6",
+	"textures": {
+		"0": "block/portal/ambient_generic",
+		"particle": "block/portal/ambient_generic"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
+		}
+	}
+}
