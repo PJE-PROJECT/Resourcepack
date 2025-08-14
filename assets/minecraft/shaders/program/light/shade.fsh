@@ -114,12 +114,16 @@ float getShadowing(vec3 position, vec3 normal) {
     vec3 b1, b2;
     buildOrthonormalBasis(normal, b1, b2);
 
+    vec2 directional = (sunDirection * mat3(b1, b2, normal)).xy;
+
     float sum = 0.0;
     float weightSum = 0.0;
 
-    for (float x = -0.075; x <= 0.075; x += 0.025) {
-        for (float y = -0.075; y <= 0.075; y += 0.025) {
-            sum += float(isShadowed(position + b1 * (x + random1() * 0.025) + b2 * (y + random1() * 0.025), normal));
+    for (float x = -0.075; x < 0.075; x += 0.025) {
+        for (float y = -0.075; y < 0.075; y += 0.025) {
+            vec2 penumbraOffset = 0.6 * vec2(x + random1() * 0.025, y + random1() * 0.025);
+            penumbraOffset += directional * 0.2 * (random1() * 2.0 - 1.0);
+            sum += float(isShadowed(position + b1 * penumbraOffset.x + b2 * penumbraOffset.y, normal));
             weightSum += 1.0;
         }
     }
