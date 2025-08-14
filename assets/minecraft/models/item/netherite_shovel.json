@@ -193,7 +193,14 @@
 
 		{ "predicate": { "custom_model_data": 187 }, "model": "laser/laser_receptacle_base_rusted"},
 		{ "predicate": { "custom_model_data": 188 }, "model": "laser/laser_receptacle_glass_rusted"},
-		{ "predicate": { "custom_model_data": 189 }, "model": "laser/laser_receptacle_glass_active_rusted"}
-		
+		{ "predicate": { "custom_model_data": 189 }, "model": "laser/laser_receptacle_glass_active_rusted"},
+
+		{ "predicate": { "custom_model_data": 190 }, "model": "particle/ambient"}
+
+
+
+
+
+
 	]
 }
