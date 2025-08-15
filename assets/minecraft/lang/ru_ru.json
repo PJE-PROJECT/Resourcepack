@@ -100,8 +100,8 @@
     "block.minecraft.dark_oak_slab": "Плита из тёмного дуба #UTILITY",
     "block.minecraft.dark_oak_stairs": "Ступеньки из тёмного дуба #UTILITY",
 
-    "block.minecraft.black_concrete": "Чёрный бетон #UTILITY"
-
+    "block.minecraft.black_concrete": "Чёрный бетон #UTILITY",
+    "block.minecraft.tinted_glass": "Тонированное стекло #UTILITY"
 
 
 }
