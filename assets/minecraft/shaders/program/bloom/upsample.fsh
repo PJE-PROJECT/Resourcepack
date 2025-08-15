@@ -72,9 +72,7 @@ void main() {
     color += (a + c + g + i);
     color *= 1.0 / 16.0;
 
-    if (Iteration > 1.0) {
-        color += decodeLogLuv(texture(BlurSampler, texCoord * (vec2(outRes) / vec2(inRes))));
-    }
+    color += decodeLogLuv(texture(BlurSampler, texCoord * (vec2(outRes) / vec2(inRes))));
 
     fragColor = encodeLogLuv(color);
 }
