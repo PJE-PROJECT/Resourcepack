@@ -99,7 +99,11 @@
 
 
   "block.minecraft.black_concrete": "Black Concrete #UTILITY",
-  "block.minecraft.tinted_glass": "Tinted Glass #UTILITY"
+  "block.minecraft.tinted_glass": "Tinted Glass #UTILITY",
+
+  "block.minecraft.acacia_wood": "Acacia Wood #BTS #NOCUL",
+  "block.minecraft.stripped_acacia_wood": "Stripped Acacia Wood #BTS #NOCUL",
+  "block.minecraft.stripped_jungle_wood": "Stripped Jungle Wood #BTS #NOCUL"
 
 
 }

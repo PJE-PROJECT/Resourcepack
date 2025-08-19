@@ -101,7 +101,11 @@
     "block.minecraft.dark_oak_stairs": "Ступеньки из тёмного дуба #UTILITY",
 
     "block.minecraft.black_concrete": "Чёрный бетон #UTILITY",
-    "block.minecraft.tinted_glass": "Тонированное стекло #UTILITY"
+    "block.minecraft.tinted_glass": "Тонированное стекло #UTILITY",
 
+
+    "block.minecraft.acacia_wood": "Акация #BTS #NOCUL",
+    "block.minecraft.stripped_acacia_wood": "Обтёсанная акациевая древесина #BTS #NOCUL",
+    "block.minecraft.stripped_jungle_wood": "Обтёсанная тропическая древесина #BTS #NOCUL"
 
 }
