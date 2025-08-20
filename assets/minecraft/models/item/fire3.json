@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "item/objmc/fire5"
+		"0": "entity/chest/objmc/fire5"
 	},
 	"elements": [
 		{

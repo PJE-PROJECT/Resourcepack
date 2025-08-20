@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "item/objmc/idle_to_carrying"
+		"0": "entity/chest/objmc/idle_to_carrying"
 	},
 	"elements": [
 		{

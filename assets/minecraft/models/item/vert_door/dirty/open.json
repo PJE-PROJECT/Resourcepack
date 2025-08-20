@@ -1,6 +1,6 @@
 {
 	"parent": "item/vert_door/open",
 	"textures": {
-		"0": "item/objmc/vert_door/dirty/open"
+		"0": "entity/chest/objmc/vert_door/dirty/open"
 	}
 }

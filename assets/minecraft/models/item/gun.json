@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "item/objmc/gunstatic"
+		"0": "entity/chest/objmc/gunstatic"
 	},
 	"elements": [
 		{
