@@ -15,6 +15,13 @@ jobs:
         uses: actions/checkout@v4.2.2
       - name: Create ZIP
         run: zip -r "../PJE Resourcepack (Base).zip" * -x .git** README.md
+      - name: Create bundle
+        run: mkdir -p ../pje-workdir/Resourcepack && cp -rf * ../pje-workdir/Resourcepack/ && pushd ../pje-workdir && \
+            rm -rf Resourcepack/.git Resourcepack/.gitattributes Resourcepack/README.md && mkdir -p "(OPTIONAL) Optimization Modpack" && \
+            git clone https://github.com/PJE-PROJECT/optimization-modpack "(OPTIONAL) Optimization Modpack" && pushd "(OPTIONAL) Optimization Modpack" && \
+            rm -rf .git .gitattributes && popd && wget https://github.com/PJE-PROJECT/info/raw/refs/heads/main/faq.txt -O faq.txt && \
+            wget https://github.com/PJE-PROJECT/info/raw/refs/heads/main/instruction.standard.txt -O instructions.txt && \
+            zip -r "../PJE.Standard.Pack.zip" * && popd && rm -rf ../pje-workdir
       - name: Move objmc textures
         run: mkdir -p assets/minecraft/textures/entity/chest && mv -f assets/minecraft/textures/item/objmc assets/minecraft/textures/entity/chest/
       - name: Update texture paths
@@ -25,7 +32,7 @@ jobs:
         id: version
         run: echo "id=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
       - name: Publish release
-        run: gh release create $VERSION --title "$TITLE" '../PJE Resourcepack (Compatibility).zip#Resource pack (AMD compatible, requires mod)' '../PJE Resourcepack (Base).zip#Resource pack'
+        run: gh release create $VERSION --title "$TITLE" '../PJE Resourcepack (Compatibility).zip#Resource pack (AMD compatible, requires mod)' '../PJE Resourcepack (Base).zip#Resource pack' '../PJE.Standard.Pack.zip#PJE Standard Pack'
         env:
           VERSION: ${{ steps.version.outputs.id }}
           TITLE: Release ${{ steps.version.outputs.id }}
