@@ -6,7 +6,7 @@ on:
       - resourcepack
 
 jobs:
-  build:
+  release:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -17,6 +17,7 @@ jobs:
         id: version
         run: echo "id=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
       - name: Publish release
-        run: gh release create $VERSION '../resourcepack.zip#Resource pack'
+        run: gh release create $VERSION --title 'Release $VERSION' '../resourcepack.zip#Resource pack'
         env:
           VERSION: ${{ steps.version.outputs.id }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
