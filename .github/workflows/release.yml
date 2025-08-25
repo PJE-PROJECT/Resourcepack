@@ -19,7 +19,7 @@ jobs:
         id: version
         run: echo "id=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
       - name: Publish release
-        run: gh release create $VERSION --title $TITLE '../resourcepack.zip#Resource pack'
+        run: gh release create $VERSION --title "$TITLE" '../resourcepack.zip#Resource pack'
         env:
           VERSION: ${{ steps.version.outputs.id }}
           TITLE: Release ${{ steps.version.outputs.id }}
