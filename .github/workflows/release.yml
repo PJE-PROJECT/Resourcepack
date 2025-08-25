@@ -18,7 +18,7 @@ jobs:
       - name: Move objmc textures
         run: mkdir -p assets/minecraft/textures/entity/chest && mv -f assets/minecraft/textures/item/objmc assets/minecraft/textures/entity/chest/
       - name: Update texture paths
-        run: find assets/minecraft/models -type f -name "*.json" -print0 | xargs -0 sed -i '' -e 's/item\/objmc\//entity\/chest\/objmc\//g'
+        run: find assets/minecraft/models -type f -name "*.json" -exec sed -i "" -e "s/item\/objmc\//entity\/chest\/objmc\//g" {} \;
       - name: Create ZIP (AMD compatible)
         run: zip -r ../resourcepack-amd.zip * -x .git** README.md
       - name: Find version
