@@ -20,7 +20,7 @@ jobs:
             mkdir -p ../pje-workdir/Resourcepack && cp -rf * ../pje-workdir/Resourcepack/ && pushd ../pje-workdir &&
             rm -rf Resourcepack/.git Resourcepack/.gitattributes Resourcepack/README.md && mkdir -p "(OPTIONAL) Optimization Modpack" &&
             git clone https://github.com/PJE-PROJECT/optimization-modpack "(OPTIONAL) Optimization Modpack" && pushd "(OPTIONAL) Optimization Modpack" &&
-            rm -rf .git .gitattributes && popd && wget https://github.com/PJE-PROJECT/info/raw/refs/heads/main/faq.txt -O faq.txt &&
+            rm -rf .git .gitattributes README.md && popd && wget https://github.com/PJE-PROJECT/info/raw/refs/heads/main/faq.txt -O faq.txt &&
             wget https://github.com/PJE-PROJECT/info/raw/refs/heads/main/instruction.standard.txt -O instructions.txt &&
             zip -r "../PJE.Standard.Pack.zip" * && popd && rm -rf ../pje-workdir
       - name: Move objmc textures
@@ -34,7 +34,7 @@ jobs:
             mkdir -p ../pje-workdir/Resourcepack && cp -rf * ../pje-workdir/Resourcepack/ && pushd ../pje-workdir &&
             rm -rf Resourcepack/.git Resourcepack/.gitattributes Resourcepack/README.md && mkdir -p "Modpack" &&
             git clone https://github.com/PJE-PROJECT/amd-support-modpack "Modpack" && pushd "Modpack" &&
-            rm -rf .git .gitattributes && popd && wget https://github.com/PJE-PROJECT/info/raw/refs/heads/main/faq.txt -O faq.txt &&
+            rm -rf .git .gitattributes README.md && popd && wget https://github.com/PJE-PROJECT/info/raw/refs/heads/main/faq.txt -O faq.txt &&
             wget https://github.com/PJE-PROJECT/info/raw/refs/heads/main/instruction.amd.txt -O instructions.txt &&
             zip -r "../PJE.Compatibility.Pack.zip" * && popd && rm -rf ../pje-workdir
       - name: Find version
