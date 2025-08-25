@@ -15,11 +15,15 @@ jobs:
         uses: actions/checkout@v4.2.2
       - name: Create ZIP
         run: zip -r ../resourcepack.zip * -x .git** README.md
+      - name: Move objmc textures
+        run: mkdir -f assets/minecraft/textures/entity/chest && mv -f assets/minecraft/textures/item/objmc assets/minecraft/textures/entity/chest/
+      - name: Create ZIP (AMD compatible)
+        run: zip -r ../resourcepack-amd.zip * -x .git** README.md
       - name: Find version
         id: version
         run: echo "id=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
       - name: Publish release
-        run: gh release create $VERSION --title "$TITLE" '../resourcepack.zip#Resource pack'
+        run: gh release create $VERSION --title "$TITLE" '../resourcepack.zip#Resource pack' '../resourcepack-amd.zip# Resource pack (AMD compatible)'
         env:
           VERSION: ${{ steps.version.outputs.id }}
           TITLE: Release ${{ steps.version.outputs.id }}
