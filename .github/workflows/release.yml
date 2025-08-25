@@ -8,11 +8,13 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4.2.2
       - name: Create ZIP
-        run: zip -r ../resourcepack.zip * -x .git** .gitatributes README.md
+        run: zip -r ../resourcepack.zip * -x .git** README.md
       - name: Find version
         id: version
         run: echo "id=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
