@@ -12,11 +12,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4.2.2
       - name: Create ZIP
-        run: zip -r /resourcepack.zip * -x .git** .gitatributes README.md
+        run: zip -r ../resourcepack.zip * -x .git** .gitatributes README.md
       - name: Find version
         id: version
         run: echo "id=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
       - name: Publish release
-        run: gh release create $VERSION '/resourcepack.zip#Resource pack'
+        run: gh release create $VERSION '../resourcepack.zip#Resource pack'
         env:
           VERSION: ${{ steps.version.outputs.id }}
