@@ -16,7 +16,7 @@ jobs:
       - name: Create ZIP
         run: zip -r ../resourcepack.zip * -x .git** README.md
       - name: Move objmc textures
-        run: mkdir -f assets/minecraft/textures/entity/chest && mv -f assets/minecraft/textures/item/objmc assets/minecraft/textures/entity/chest/
+        run: mkdir -p assets/minecraft/textures/entity/chest && mv -f assets/minecraft/textures/item/objmc assets/minecraft/textures/entity/chest/
       - name: Create ZIP (AMD compatible)
         run: zip -r ../resourcepack-amd.zip * -x .git** README.md
       - name: Find version
