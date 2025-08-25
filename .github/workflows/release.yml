@@ -29,11 +29,19 @@ jobs:
         run: find assets/minecraft/models -type f -name "*.json" -exec sed -i -e "s/item\/objmc\//entity\/chest\/objmc\//g" {} \;
       - name: Create ZIP (AMD compatible)
         run: zip -r "../PJE Resourcepack (Compatibility).zip" * -x .git** README.md
+      - name: Create bundle (AMD compatible)
+        run: >
+            mkdir -p ../pje-workdir/Resourcepack && cp -rf * ../pje-workdir/Resourcepack/ && pushd ../pje-workdir &&
+            rm -rf Resourcepack/.git Resourcepack/.gitattributes Resourcepack/README.md && mkdir -p "Modpack" &&
+            git clone https://github.com/PJE-PROJECT/amd-support-modpack "Modpack" && pushd "Modpack" &&
+            rm -rf .git .gitattributes && popd && wget https://github.com/PJE-PROJECT/info/raw/refs/heads/main/faq.txt -O faq.txt &&
+            wget https://github.com/PJE-PROJECT/info/raw/refs/heads/main/instruction.amd.txt -O instructions.txt &&
+            zip -r "../PJE.Compatibility.Pack.zip" * && popd && rm -rf ../pje-workdir
       - name: Find version
         id: version
         run: echo "id=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
       - name: Publish release
-        run: gh release create $VERSION --title "$TITLE" '../PJE Resourcepack (Compatibility).zip#Resource pack (AMD compatible, requires mod)' '../PJE Resourcepack (Base).zip#Resource pack' '../PJE.Standard.Pack.zip#PJE Standard Pack'
+        run: gh release create $VERSION --title "$TITLE" '../PJE Resourcepack (Compatibility).zip#Resource pack (AMD compatible, requires mod)' '../PJE Resourcepack (Base).zip#Resource pack' '../PJE.Standard.Pack.zip#PJE Standard Pack' '../PJE.Compatibility.Pack.zip#PJE Compatibility Pack'
         env:
           VERSION: ${{ steps.version.outputs.id }}
           TITLE: Release ${{ steps.version.outputs.id }}
