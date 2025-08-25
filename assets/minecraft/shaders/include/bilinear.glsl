@@ -13,6 +13,7 @@ vec4 textureBilinear(sampler2D samp, vec2 texCoord, vec3 bound1, vec3 bound2, ve
         return textureLod(samp, texCoord, mipLevel);
     }
 
+    vec2 originalTexCoord = texCoord;
     vec2 texSize = vec2(textureSize(samp, 0).xy);
 
     texCoord *= texSize;
@@ -35,7 +36,7 @@ vec4 textureBilinear(sampler2D samp, vec2 texCoord, vec3 bound1, vec3 bound2, ve
     );
 
     if (mipLevel > 0.0) {
-        color = mix(color, textureLod(samp, texCoord, 1.0), mipLevel);
+        color = mix(color, textureLod(samp, originalTexCoord, 1.0), mipLevel);
     }
 
     if (color.a >= 251.0 / 255.0) {
